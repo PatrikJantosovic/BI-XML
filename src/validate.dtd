@@ -1,0 +1,15 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT countries (country+)>
+<!ELEMENT country (#PCDATA|section)*>
+<!ATTLIST country name CDATA #IMPLIED>
+
+<!ELEMENT section (text*)>
+<!ATTLIST section name CDATA #REQUIRED>
+
+<!ELEMENT text (#PCDATA|data)*>
+<!ATTLIST text name CDATA #REQUIRED>
+
+<!ELEMENT data (#PCDATA|subdata)*>
+
+<!ELEMENT subdata (#PCDATA)>

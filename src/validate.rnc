@@ -1,0 +1,29 @@
+grammar{
+
+	capitalStart = xsd:string {
+	  pattern="[A-Z]+.*"
+	}
+
+	notempty = xsd:string {
+	  pattern=".*[\S]+.*"
+	}
+
+	country = element country {
+		attribute name { capitalStart },
+		element section {
+			attribute name { notempty },
+			element \text {
+				attribute name { notempty },
+				element data {
+					text?,
+					element subdata {
+						text
+					}*
+				}
+			}+
+		}+
+	}+
+
+	start = element countries { country }
+
+}
