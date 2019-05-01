@@ -10,7 +10,7 @@
 - data
   - zdrojové XML súbory
   - Krajiny: Guernsey, Guinea, Guinea-Bissau, Guyana
-  - Použitý parser: 
+  - Použitý parser: https://gitlab.fit.cvut.cz/dvorat19/bi-xml-survivors/blob/master/parser/parser.jar
   - Zdroj dát: https://www.cia.gov/library/publications/resources/the-world-factbook/
 - output
   - Do tohoto odresára sa generujú všetky výstupy
@@ -24,23 +24,28 @@
 
 # Príkazy
 - Predpokladá sa nainštalovaný software zo sekcie "Požiadavky"
-- Všetky príkazdy sú spúšťané z koreňového adresára
+- Pre všetky príkazy sú vytvorené bash scripty v koreňovom adresári
 ## 1. Zlúčenie do 1 XML
 ```
+./merge.sh
 ```
 
 ## 2. Validácia DTD
 ```
+./validatedtd.sh
 ```
 
 ## 3. Validácia RelaxNG
 ```
+./validaterelaxng.sh
 ```
 
 ## 4. Vygenerovánie HTML
 ```
+./generatehtml.sh
 ```
 
 ## 5. Vygenerovánie PDF
 ```
+./generatepdf.sh
 ```
