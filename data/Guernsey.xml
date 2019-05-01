@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country name="Guernsey">
+    <section name="introduction">
+        <text name=" background">
+            <data>Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil occupied by German troops in World War II. The Bailiwick of Guernsey is a self-governing British crown dependency that is not part of the United Kingdom. However, the UK Government is constitutionally responsible for its defense and international representation. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou.</data>
+        </text>
+    </section>
+    <section name="geography">
+        <text name=" location">
+            <data>Western Europe, islands in the English Channel, northwest of France</data>
+        </text>
+        <text name=" geographic coordinates">
+            <data>49 28 N, 2 35 W</data>
+        </text>
+        <text name=" map references">
+            <data>Europe</data>
+        </text>
+        <text name=" area">
+            <data>
+                <subdata>total: 78 sq km</subdata>
+                <subdata>land: 78 sq km</subdata>
+                <subdata>water: 0 sq km</subdata>
+                <subdata>note: includes Alderney, Guernsey, Herm, Sark, and some other smaller islands</subdata>
+                <subdata>country comparison to the world: 228</subdata>
+            </data>
+        </text>
+        <text name=" area comparative">
+            <data>about one-half the size of Washington, DC</data>
+        </text>
+        <text name=" land boundaries">
+            <data>0 km</data>
+        </text>
+        <text name=" coastline">
+            <data>50 km</data>
+        </text>
+        <text name=" maritime claims">
+            <data>
+                <subdata>territorial sea: 3 nm</subdata>
+                <subdata>exclusive fishing zone: 12 nm</subdata>
+            </data>
+        </text>
+        <text name=" climate">
+            <data>temperate with mild winters and cool summers; about 50% of days are overcast</data>
+        </text>
+        <text name=" terrain">
+            <data>mostly flat with low hills in southwest</data>
+        </text>
+        <text name=" elevation">
+            <data>
+                <subdata>lowest point: English Channel 0 m</subdata>
+                <subdata>highest point: Le Moulin on Sark 114 m</subdata>
+            </data>
+        </text>
+        <text name=" natural resources">
+            <data>cropland</data>
+        </text>
+        <text name=" irrigated land">
+            <data>NA</data>
+        </text>
+        <text name=" natural hazards">
+            <data>very large tidal variation and fast currents can make local waters dangerous</data>
+        </text>
+        <text name=" environment current issues">
+            <data>coastal erosion, coastal flooding; declining biodiversity due to land abandonment and succession to scrub or woodland</data>
+        </text>
+        <text name=" geography note">
+            <data>large, deepwater harbor at Saint Peter Port</data>
+        </text>
+    </section>
+    <section name="people">
+        <text name=" population">
+            <data>
+                <subdata>66,697 (July 2018 est.)</subdata>
+                <subdata>country comparison to the world: 204</subdata>
+            </data>
+        </text>
+        <text name=" nationality">
+            <data>
+                <subdata>noun: Channel Islander(s)</subdata>
+                <subdata>adjective: Channel Islander</subdata>
+            </data>
+        </text>
+        <text name=" ethnic groups">
+            <data>
+                <subdata>Guernsey 52%, UK and Ireland 23.7%, Portugal 2.1%, Latvia 1.5%, other 6.7%, unspecified 14.1%</subdata>
+                <subdata>note: data represent population by country of birth; the native population is of British and Norman-French descent</subdata>
+            </data>
+        </text>
+        <text name=" languages">
+            <data>English, French, Norman-French dialect spoken in country districts</data>
+        </text>
+        <text name=" religions">
+            <data>Protestant (Anglican, Presbyterian, Baptist, Congregational, Methodist), Roman Catholic</data>
+        </text>
+        <text name=" age structure">
+            <data>
+                <subdata>0-14 years: 14.51% (male 4,994 /female 4,686)</subdata>
+                <subdata>15-24 years: 10.89% (male 3,711 /female 3,553)</subdata>
+                <subdata>25-54 years: 41.41% (male 13,958 /female 13,658)</subdata>
+                <subdata>55-64 years: 13.38% (male 4,425 /female 4,496)</subdata>
+                <subdata>65 years and over: 19.81% (male 6,038 /female 7,178) (2018 est.)</subdata>
+                <subdata>population pyramid: The World Factbook Field Image Modal × Europe :: Guernsey Print Image Description This is the population pyramid for Guernsey. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. For additional information, please see the entry for Population pyramid on the Definitions and Notes page under the References tab.</subdata>
+            </data>
+        </text>
+        <text name=" dependency ratios">
+            <data>
+                <subdata>total dependency ratio: 47.1 (2015 est.)</subdata>
+                <subdata>youth dependency ratio: 21.6 (2015 est.)</subdata>
+                <subdata>elderly dependency ratio: 25.4 (2015 est.)</subdata>
+                <subdata>potential support ratio: 3.9 (2015 est.)</subdata>
+                <subdata>note: data represent the Guernsey and Jersey</subdata>
+            </data>
+        </text>
+        <text name=" median age">
+            <data>
+                <subdata>total: 44 years</subdata>
+                <subdata>male: 42.7 years</subdata>
+                <subdata>female: 45.3 years (2018 est.)</subdata>
+                <subdata>country comparison to the world: 14</subdata>
+            </data>
+        </text>
+        <text name=" population growth rate">
+            <data>
+                <subdata>0.28% (2018 est.)</subdata>
+                <subdata>country comparison to the world: 174</subdata>
+            </data>
+        </text>
+        <text name=" birth rate">
+            <data>
+                <subdata>9.8 births/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 194</subdata>
+            </data>
+        </text>
+        <text name=" death rate">
+            <data>
+                <subdata>9 deaths/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 61</subdata>
+            </data>
+        </text>
+        <text name=" net migration rate">
+            <data>
+                <subdata>2.1 migrant(s)/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 49</subdata>
+            </data>
+        </text>
+        <text name=" urbanization">
+            <data>
+                <subdata>urban population: 30.9% of total population (2018)</subdata>
+                <subdata>rate of urbanization: 0.46% annual rate of change (2015-20 est.)</subdata>
+                <subdata>note: data represent Guernsey and Jersey</subdata>
+            </data>
+        </text>
+        <text name=" major urban areas population">
+            <data>16,000 SAINT PETER PORT (capital) (2018)</data>
+        </text>
+        <text name=" sex ratio">
+            <data>
+                <subdata>at birth: 1.06 male(s)/female</subdata>
+                <subdata>0-14 years: 1.07 male(s)/female (2017 est.)</subdata>
+                <subdata>15-24 years: 1.04 male(s)/female (2017 est.)</subdata>
+                <subdata>25-54 years: 1.02 male(s)/female (2017 est.)</subdata>
+                <subdata>55-64 years: 0.99 male(s)/female (2017 est.)</subdata>
+                <subdata>65 years and over: 0.83 male(s)/female (2017 est.)</subdata>
+                <subdata>total population: 0.99 male(s)/female (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" infant mortality rate">
+            <data>
+                <subdata>total: 3.4 deaths/1,000 live births</subdata>
+                <subdata>male: 3.7 deaths/1,000 live births</subdata>
+                <subdata>female: 3.1 deaths/1,000 live births (2018 est.)</subdata>
+                <subdata>country comparison to the world: 203</subdata>
+            </data>
+        </text>
+        <text name=" life expectancy at birth">
+            <data>
+                <subdata>total population: 82.7 years</subdata>
+                <subdata>male: 80 years</subdata>
+                <subdata>female: 85.5 years (2018 est.)</subdata>
+                <subdata>country comparison to the world: 9</subdata>
+            </data>
+        </text>
+        <text name=" total fertility rate">
+            <data>
+                <subdata>1.57 children born/woman (2018 est.)</subdata>
+                <subdata>country comparison to the world: 186</subdata>
+            </data>
+        </text>
+        <text name=" hiv aids adult prevalence rate">
+            <data>NA</data>
+        </text>
+        <text name=" hiv aids people living with hiv aids">
+            <data>NA</data>
+        </text>
+        <text name=" hiv aids deaths">
+            <data>NA</data>
+        </text>
+        <text name=" education expenditures">
+            <data>NA</data>
+        </text>
+    </section>
+    <section name="government">
+        <text name=" country name">
+            <data>
+                <subdata>conventional long form: Bailiwick of Guernsey</subdata>
+                <subdata>conventional short form: Guernsey</subdata>
+                <subdata>former: Norman Isles</subdata>
+                <subdata>etymology: the name is of Old Norse origin, but the meaning of the root "Guern(s)" is uncertain; the "-ey" ending means "island"</subdata>
+            </data>
+        </text>
+        <text name=" dependency status">
+            <data>British crown dependency</data>
+        </text>
+        <text name=" government type">
+            <data>parliamentary democracy (States of Deliberation)</data>
+        </text>
+        <text name=" capital">
+            <data>
+                <subdata>name: Saint Peter Port</subdata>
+                <subdata>geographic coordinates: 49 27 N, 2 32 W</subdata>
+                <subdata>time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)</subdata>
+                <subdata>daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October</subdata>
+            </data>
+        </text>
+        <text name=" administrative divisions">
+            <data>
+                <subdata>none (British crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale</subdata>
+                <subdata>note: two additional parishes for Guernsey are sometimes listed - the parish of Saint Anne on the island of Alderney and the parish of Saint Peter on the island of Sark - but they are generally not included in the enumeration of parishes</subdata>
+            </data>
+        </text>
+        <text name=" independence">
+            <data>none (British crown dependency)</data>
+        </text>
+        <text name=" national holiday">
+            <data>Liberation Day, 9 May (1945)</data>
+        </text>
+        <text name=" constitution">
+            <data>
+                <subdata>history: unwritten; includes royal charters, statutes, and common law and practice</subdata>
+                <subdata>amendments: new laws or changes to existing laws are initiated by the States of Deliberation; passage requires majority vote</subdata>
+            </data>
+        </text>
+        <text name=" legal system">
+            <data>customary legal system based on Norman customary law, and includes elements of the French civil code and English common law</data>
+        </text>
+        <text name=" citizenship">
+            <data>see United Kingdom</data>
+        </text>
+        <text name=" suffrage">
+            <data>16 years of age; universal</data>
+        </text>
+        <text name=" executive branch">
+            <data>
+                <subdata>chief of state: Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant-Governor Vice Admiral Ian CORDER (since 14 March 2016)</subdata>
+                <subdata>head of government: Chief Minister Gavin ST PIER (since 6 May 2016); Bailiff Sir Richard COLLAS (since 23 March 2012); note - the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights</subdata>
+                <subdata>cabinet: none</subdata>
+                <subdata>elections/appointments: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee indirectly elected by the States of Deliberation for a 4-year term; last held on 6 May 2016 (next to be held in 2020)</subdata>
+                <subdata>election results: Gavin ST PIER (independent) elected president of the Policy and Resources Committee and chief minister</subdata>
+            </data>
+        </text>
+        <text name=" legislative branch">
+            <data>
+                <subdata>description: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general</subdata>
+                <subdata>elections: last held on 27 April 2016 (next to be held in 2020)</subdata>
+                <subdata>election results: percent of vote - NA; seats - independent 38; composition - men 27, women 13, percent of women 32.5%</subdata>
+            </data>
+        </text>
+        <text name=" judicial branch">
+            <data>
+                <subdata>highest courts: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)</subdata>
+                <subdata>judge selection and term of office: Royal Court Bailiff, Deputy Bailiff, and Court of Appeal justices appointed by the British Crown and hold office at Her Majesty's pleasure; jurats elected by the States of Election, a body chaired by the Bailiff and a number of jurats</subdata>
+                <subdata>subordinate courts: Court of Alderney; Court of the Seneschal of Sark; Magistrates' Court (includes Juvenile Court); Contracts Court; Ecclesiastical Court; Court of Chief Pleas</subdata>
+            </data>
+        </text>
+        <text name=" political parties and leaders">
+            <data>none; all independents</data>
+        </text>
+        <text name=" international organization participation">
+            <data>UPU</data>
+        </text>
+        <text name=" diplomatic representation in the us">
+            <data>none (British crown dependency)</data>
+        </text>
+        <text name=" diplomatic representation from the us">
+            <data>none (British crown dependency)</data>
+        </text>
+        <text name=" flag description">
+            <data>white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents the old ties with England and the fact that Guernsey is a British Crown dependency; the gold cross is a replica of the one used by Duke William of Normandy at the Battle of Hastings in 1066</data>
+        </text>
+        <text name=" national symbol s">
+            <data>Guernsey cow, donkey; national colors: red, white, yellow</data>
+        </text>
+        <text name=" national anthem">
+            <data>
+                <subdata>name: "Sarnia Cherie" (Guernsey Dear)</subdata>
+                <subdata>lyrics/music: George DEIGHTON/Domencio SANTANGELO</subdata>
+                <subdata>note: adopted 1911; serves as a local anthem; as a British crown dependency, "God Save the Queen" is official (see United Kingdom)</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="economy">
+        <text name=" economy overview">
+            <data>Financial services accounted for about 21% of employment and about 32% of total income in 2016 in this tiny, prosperous Channel Island economy. Construction, manufacturing, and horticulture, mainly tomatoes and cut flowers, have been declining. Financial services, professional services, tourism, retail, and the public sector have been growing. Light tax and death duties make Guernsey a popular offshore financial center.</data>
+        </text>
+        <text name=" gdp purchasing power parity">
+            <data>
+                <subdata>$3.465 billion (2015 est.)</subdata>
+                <subdata>$3.451 billion (2014 est.)</subdata>
+                <subdata>$3.42 billion (2013 est.)</subdata>
+                <subdata>note: data are in 2015 dollars</subdata>
+                <subdata>country comparison to the world: 184</subdata>
+            </data>
+        </text>
+        <text name=" gdp official exchange rate">
+            <data>$2.742 billion (2005 est.) (2005 est.)</data>
+        </text>
+        <text name=" gdp real growth rate">
+            <data>
+                <subdata>0.4% (2015 est.)</subdata>
+                <subdata>1.2% (2014 est.)</subdata>
+                <subdata>4.2% (2012 est.)</subdata>
+                <subdata>country comparison to the world: 193</subdata>
+            </data>
+        </text>
+        <text name=" gdp per capita ppp">
+            <data>
+                <subdata>$52,500 (2014 est.)</subdata>
+                <subdata>country comparison to the world: 24</subdata>
+            </data>
+        </text>
+        <text name=" gdp composition by sector of origin">
+            <data>
+                <subdata>agriculture: 3% (2000)</subdata>
+                <subdata>industry: 10% (2000)</subdata>
+                <subdata>services: 87% (2000)</subdata>
+            </data>
+        </text>
+        <text name=" agriculture products">
+            <data>tomatoes, greenhouse flowers, sweet peppers, eggplant, fruit; Guernsey cattle</data>
+        </text>
+        <text name=" industries">
+            <data>tourism, banking</data>
+        </text>
+        <text name=" industrial production growth rate">
+            <data>NA</data>
+        </text>
+        <text name=" labor force">
+            <data>
+                <subdata>31,470 (March 2006)</subdata>
+                <subdata>country comparison to the world: 203</subdata>
+            </data>
+        </text>
+        <text name=" unemployment rate">
+            <data>
+                <subdata>1.2% (2016 est.)</subdata>
+                <subdata>country comparison to the world: 13</subdata>
+            </data>
+        </text>
+        <text name=" population below poverty line">
+            <data>NA</data>
+        </text>
+        <text name=" household income or consumption by percentage share">
+            <data>
+                <subdata>lowest 10%: NA</subdata>
+                <subdata>highest 10%: NA</subdata>
+            </data>
+        </text>
+        <text name=" budget">
+            <data>
+                <subdata>revenues: 563.6 million (2005)</subdata>
+                <subdata>expenditures: 530.9 million (2005 est.)</subdata>
+            </data>
+        </text>
+        <text name=" taxes and other revenues">
+            <data>
+                <subdata>20.6% (of GDP) (2005)</subdata>
+                <subdata>country comparison to the world: 146</subdata>
+            </data>
+        </text>
+        <text name=" budget surplus or deficit">
+            <data>
+                <subdata>1.2% (of GDP) (2005)</subdata>
+                <subdata>country comparison to the world: 29</subdata>
+            </data>
+        </text>
+        <text name=" fiscal year">
+            <data>calendar year</data>
+        </text>
+        <text name=" inflation rate consumer prices">
+            <data>
+                <subdata>3.4% (June 2006 est.)</subdata>
+                <subdata>country comparison to the world: 141</subdata>
+            </data>
+        </text>
+        <text name=" exports">
+            <data>NA</data>
+        </text>
+        <text name=" exports commodities">
+            <data>tomatoes, flowers and ferns, sweet peppers, eggplant, other vegetables</data>
+        </text>
+        <text name=" imports">
+            <data>NA</data>
+        </text>
+        <text name=" imports commodities">
+            <data>coal, gasoline, oil, machinery, and equipment</data>
+        </text>
+        <text name=" debt external">
+            <data>NA</data>
+        </text>
+        <text name=" exchange rates">
+            <data>
+                <subdata>Guernsey pound per US dollar</subdata>
+                <subdata>0.7836 (2017 est.)</subdata>
+                <subdata>0.738 (2016 est.)</subdata>
+                <subdata>0.738 (2015)</subdata>
+                <subdata>0.6542 (2014)</subdata>
+                <subdata>0.607 (2013)</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="energy">
+        <text name=" electricity access">
+            <data>electrification - total population: 100% (2016)</data>
+        </text>
+    </section>
+    <section name="communications">
+        <text name=" telephones fixed lines">
+            <data>
+                <subdata>total subscriptions: 36,547 (July 2016 est.)</subdata>
+                <subdata>subscriptions per 100 inhabitants: 60 (July 2016 est.)</subdata>
+                <subdata>country comparison to the world: 164</subdata>
+            </data>
+        </text>
+        <text name=" telephones mobile cellular">
+            <data>
+                <subdata>total subscriptions: 71,249 (July 2016 est.)</subdata>
+                <subdata>subscriptions per 100 inhabitants: 113 (July 2016 est.)</subdata>
+                <subdata>country comparison to the world: 197</subdata>
+            </data>
+        </text>
+        <text name=" telephone system">
+            <data>
+                <subdata>general assessment: high performance global connections with quality service; connections to major cities around the world to rival and attract future  investment and future needs of islanders and businesses (2017)</subdata>
+                <subdata>domestic: fixed-line and mobile-cellular 113 per 100 subscription services widely available (2015)</subdata>
+                <subdata>international: country code - 44; 1 submarine cable (2015)</subdata>
+            </data>
+        </text>
+        <text name=" broadcast media">
+            <data>multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station operating (2009)</data>
+        </text>
+        <text name=" internet country code">
+            <data>.gg</data>
+        </text>
+        <text name=" internet users">
+            <data>
+                <subdata>total: 55,050 (July 2016 est.)</subdata>
+                <subdata>percent of population: 83.3% (July 2016 est.)</subdata>
+                <subdata>country comparison to the world: 191</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="transportation">
+        <text name=" national air transport system">
+            <data>
+                <subdata>number of registered air carriers: 2 (registered in UK) (2015)</subdata>
+                <subdata>inventory of registered aircraft operated by air carriers: 11 (registered in UK) (2015)</subdata>
+            </data>
+        </text>
+        <text name=" airports">
+            <data>
+                <subdata>2 (2013)</subdata>
+                <subdata>country comparison to the world: 200</subdata>
+            </data>
+        </text>
+        <text name=" airports with paved runways">
+            <data>
+                <subdata>total: 2 (2017)</subdata>
+                <subdata>1,524 to 2,437 m: 1 (2017)</subdata>
+                <subdata>under 914 m: 1 (2017)</subdata>
+            </data>
+        </text>
+        <text name=" ports and terminals">
+            <data>major seaport(s): Braye Bay, Saint Peter Port</data>
+        </text>
+    </section>
+    <section name="military">
+        <text name=" military note">
+            <data>defense is the responsibility of the UK</data>
+        </text>
+    </section>
+    <section name="transnational">
+        <text name=" disputes international">
+            <data>none</data>
+        </text>
+    </section>
+</country>

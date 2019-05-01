@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE project [
+<!ENTITY guernsey SYSTEM "../data/Guernsey.xml">
+<!ENTITY guinea SYSTEM "../data/Guinea.xml">
+<!ENTITY guinea-bissau SYSTEM "../data/Guinea-Bissau.xml">
+<!ENTITY guyana SYSTEM "../data/Guyana.xml">
+]>
+
+<countries>
+    &guernsey;
+    &guinea;
+    &guinea-bissau;
+    &guyana;
+</countries>

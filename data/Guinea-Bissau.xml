@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country name="Guinea-Bissau">
+    <section name="introduction">
+        <text name=" background">
+            <data>Since independence from Portugal in 1974, Guinea-Bissau has experienced considerable political and military upheaval. In 1980, a military coup established authoritarian General Joao Bernardo 'Nino' VIEIRA as president. Despite eventually setting a path to a market economy and multiparty system, VIEIRA's regime was characterized by the suppression of political opposition and the purging of political rivals. Several coup attempts through the 1980s and early 1990s failed to unseat him. In 1994 VIEIRA was elected president in the country's first free, multiparty election. A military mutiny and resulting civil war in 1998 eventually led to VIEIRA's ouster in May 1999. In February 2000, a transitional government turned over power to opposition leader Kumba YALA after he was elected president in transparent polling. In September 2003, after only three years in office, YALA was overthrown in a bloodless military coup, and businessman Henrique ROSA was sworn in as interim president. In 2005, former President VIEIRA was reelected, pledging to pursue economic development and national reconciliation; he was assassinated in March 2009. Malam Bacai SANHA was elected in an emergency election held in June 2009, but he passed away in January 2012 from a long-term illness. A military coup in April 2012 prevented Guinea-Bissau's second-round presidential election - to determine SANHA's successor - from taking place. Following mediation by the Economic Community of Western African States, a civilian transitional government assumed power in 2012 and remained until Jose Mario VAZ won a free and fair election in 2014. Beginning in 2015, a political dispute between factions in the ruling PAIGC party brought government gridlock. It was not until April 2018 that a consensus prime minister could be appointed, the national legislature reopened (having been closed for two years), and a new government formed under Prime Minister Aristides GOMES.</data>
+        </text>
+    </section>
+    <section name="geography">
+        <text name=" location">
+            <data>Western Africa, bordering the North Atlantic Ocean, between Guinea and Senegal</data>
+        </text>
+        <text name=" geographic coordinates">
+            <data>12 00 N, 15 00 W</data>
+        </text>
+        <text name=" map references">
+            <data>Africa</data>
+        </text>
+        <text name=" area">
+            <data>
+                <subdata>total: 36,125 sq km</subdata>
+                <subdata>land: 28,120 sq km</subdata>
+                <subdata>water: 8,005 sq km</subdata>
+                <subdata>country comparison to the world: 138</subdata>
+            </data>
+        </text>
+        <text name=" area comparative">
+            <data>slightly less than three times the size of Connecticut</data>
+        </text>
+        <text name=" land boundaries">
+            <data>
+                <subdata>total: 762 km</subdata>
+                <subdata>border countries (2): Guinea 421 km, Senegal 341 km</subdata>
+            </data>
+        </text>
+        <text name=" coastline">
+            <data>350 km</data>
+        </text>
+        <text name=" maritime claims">
+            <data>
+                <subdata>territorial sea: 12 nm</subdata>
+                <subdata>exclusive economic zone: 200 nm</subdata>
+            </data>
+        </text>
+        <text name=" climate">
+            <data>tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds</data>
+        </text>
+        <text name=" terrain">
+            <data>mostly low-lying coastal plain with a deeply indented estuarine coastline rising to savanna in east; numerous off-shore islands including the Arquipelago Dos Bijagos consisting of 18 main islands and many small islets</data>
+        </text>
+        <text name=" elevation">
+            <data>
+                <subdata>mean elevation: 70 m</subdata>
+                <subdata>lowest point: Atlantic Ocean 0 m</subdata>
+                <subdata>highest point: unnamed elevation in the eastern part of the country 300 m</subdata>
+            </data>
+        </text>
+        <text name=" natural resources">
+            <data>fish, timber, phosphates, bauxite, clay, granite, limestone, unexploited deposits of petroleum</data>
+        </text>
+        <text name=" land use">
+            <data>
+                <subdata>agricultural land: 44.8% (2011 est.)</subdata>
+                <subdata>arable land: 8.2% (2011 est.) / permanent crops: 6.9% (2011 est.) / permanent pasture: 29.7% (2011 est.)</subdata>
+                <subdata>forest: 55.2% (2011 est.)</subdata>
+                <subdata>other: 0% (2011 est.)</subdata>
+            </data>
+        </text>
+        <text name=" irrigated land">
+            <data>250 sq km (2012)</data>
+        </text>
+        <text name=" population distribution">
+            <data>approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions</data>
+        </text>
+        <text name=" natural hazards">
+            <data>hot, dry, dusty harmattan haze may reduce visibility during dry season; brush fires</data>
+        </text>
+        <text name=" environment current issues">
+            <data>deforestation (rampant felling of trees for timber and agricultural purposes); soil erosion; overgrazing; overfishing</data>
+        </text>
+        <text name=" environment international agreements">
+            <data>
+                <subdata>party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands</subdata>
+                <subdata>signed, but not ratified: none of the selected agreements</subdata>
+            </data>
+        </text>
+        <text name=" geography note">
+            <data>this small country is swampy along its western coast and low-lying inland</data>
+        </text>
+    </section>
+    <section name="people">
+        <text name=" population">
+            <data>
+                <subdata>1,833,247 (July 2018 est.)</subdata>
+                <subdata>country comparison to the world: 153</subdata>
+            </data>
+        </text>
+        <text name=" nationality">
+            <data>
+                <subdata>noun: Bissau-Guinean(s)</subdata>
+                <subdata>adjective: Bissau-Guinean</subdata>
+            </data>
+        </text>
+        <text name=" ethnic groups">
+            <data>Fulani 28.5%, Balanta 22.5%, Mandinga 14.7%, Papel 9.1%, Manjaco 8.3%, Beafada 3.5%, Mancanha 3.1%, Bijago 2.1%, Felupe 1.7%, Mansoanca 1.4%, Balanta Mane 1%, other 1.8%, none 2.2% (2008 est.)</data>
+        </text>
+        <text name=" languages">
+            <data>Crioulo (lingua franca), Portuguese (official; largely used as a second or third language), Pular (a Fula language), Mandingo</data>
+        </text>
+        <text name=" religions">
+            <data>Muslim 45.1%, Christian 22.1%, animist 14.9%, none 2%, unspecified 15.9% (2008 est.)</data>
+        </text>
+        <text name=" demographic profile">
+            <data>Guinea-Bissau’s young and growing population is sustained by high fertility; approximately 60% of the population is under the age of 25. Its large reproductive-age population and total fertility rate of more than 4 children per woman offsets the country’s high infant and maternal mortality rates. The latter is among the world’s highest because of the prevalence of early childbearing, a lack of birth spacing, the high percentage of births outside of health care facilities, and a shortage of medicines and supplies. Guinea-Bissau’s history of political instability, a civil war, and several coups (the latest in 2012) have resulted in a fragile state with a weak economy, high unemployment, rampant corruption, widespread poverty, and thriving drug and child trafficking. With the country lacking educational infrastructure, school funding and materials, and qualified teachers, and with the cultural emphasis placed on religious education, parents frequently send boys to study in residential Koranic schools (daaras) in Senegal and The Gambia. They often are extremely deprived and are forced into street begging or agricultural work by marabouts (Muslim religious teachers), who enrich themselves at the expense of the children. Boys who leave their marabouts often end up on the streets of Dakar or other large Senegalese towns and are vulnerable to even worse abuse. Some young men lacking in education and job prospects become involved in the flourishing international drug trade. Local drug use and associated violent crime are growing.</data>
+        </text>
+        <text name=" age structure">
+            <data>
+                <subdata>0-14 years: 43.55% (male 400,666 /female 397,704)</subdata>
+                <subdata>15-24 years: 20.23% (male 181,286 /female 189,515)</subdata>
+                <subdata>25-54 years: 29.9% (male 259,762 /female 288,300)</subdata>
+                <subdata>55-64 years: 3.29% (male 27,621 /female 32,611)</subdata>
+                <subdata>65 years and over: 3.04% (male 24,331 /female 31,451) (2018 est.)</subdata>
+                <subdata>population pyramid: The World Factbook Field Image Modal × Africa :: Guinea-Bissau Print Image Description This is the population pyramid for Guinea Bissau. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. For additional information, please see the entry for Population pyramid on the Definitions and Notes page under the References tab.</subdata>
+            </data>
+        </text>
+        <text name=" dependency ratios">
+            <data>
+                <subdata>total dependency ratio: 80.4 (2015 est.)</subdata>
+                <subdata>youth dependency ratio: 75.2 (2015 est.)</subdata>
+                <subdata>elderly dependency ratio: 5.2 (2015 est.)</subdata>
+                <subdata>potential support ratio: 19.3 (2015 est.)</subdata>
+            </data>
+        </text>
+        <text name=" median age">
+            <data>
+                <subdata>total: 17.8 years</subdata>
+                <subdata>male: 17.2 years</subdata>
+                <subdata>female: 18.5 years (2018 est.)</subdata>
+                <subdata>country comparison to the world: 216</subdata>
+            </data>
+        </text>
+        <text name=" population growth rate">
+            <data>
+                <subdata>2.48% (2018 est.)</subdata>
+                <subdata>country comparison to the world: 23</subdata>
+            </data>
+        </text>
+        <text name=" birth rate">
+            <data>
+                <subdata>37.3 births/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 13</subdata>
+            </data>
+        </text>
+        <text name=" death rate">
+            <data>
+                <subdata>8.5 deaths/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 79</subdata>
+            </data>
+        </text>
+        <text name=" net migration rate">
+            <data>
+                <subdata>-4 migrant(s)/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 185</subdata>
+            </data>
+        </text>
+        <text name=" population distribution">
+            <data>approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions</data>
+        </text>
+        <text name=" urbanization">
+            <data>
+                <subdata>urban population: 43.4% of total population (2018)</subdata>
+                <subdata>rate of urbanization: 3.41% annual rate of change (2015-20 est.)</subdata>
+            </data>
+        </text>
+        <text name=" major urban areas population">
+            <data>558,000 BISSAU (capital) (2018)</data>
+        </text>
+        <text name=" sex ratio">
+            <data>
+                <subdata>at birth: 1.02 male(s)/female</subdata>
+                <subdata>0-14 years: 1 male(s)/female (2017 est.)</subdata>
+                <subdata>15-24 years: 0.98 male(s)/female (2017 est.)</subdata>
+                <subdata>25-54 years: 0.99 male(s)/female (2017 est.)</subdata>
+                <subdata>55-64 years: 0.62 male(s)/female (2017 est.)</subdata>
+                <subdata>65 years and over: 0.6 male(s)/female (2017 est.)</subdata>
+                <subdata>total population: 0.96 male(s)/female (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" maternal mortality rate">
+            <data>
+                <subdata>549 deaths/100,000 live births (2015 est.)</subdata>
+                <subdata>country comparison to the world: 18</subdata>
+            </data>
+        </text>
+        <text name=" infant mortality rate">
+            <data>
+                <subdata>total: 54.8 deaths/1,000 live births</subdata>
+                <subdata>male: 61 deaths/1,000 live births</subdata>
+                <subdata>female: 48.4 deaths/1,000 live births (2018 est.)</subdata>
+                <subdata>country comparison to the world: 20</subdata>
+            </data>
+        </text>
+        <text name=" life expectancy at birth">
+            <data>
+                <subdata>total population: 61.4 years</subdata>
+                <subdata>male: 59.2 years</subdata>
+                <subdata>female: 63.6 years (2018 est.)</subdata>
+                <subdata>country comparison to the world: 204</subdata>
+            </data>
+        </text>
+        <text name=" total fertility rate">
+            <data>
+                <subdata>4.81 children born/woman (2018 est.)</subdata>
+                <subdata>country comparison to the world: 18</subdata>
+            </data>
+        </text>
+        <text name=" contraceptive prevalence rate">
+            <data>16% (2014)</data>
+        </text>
+        <text name=" health expenditures">
+            <data>
+                <subdata>5.6% of GDP (2014)</subdata>
+                <subdata>country comparison to the world: 120</subdata>
+            </data>
+        </text>
+        <text name=" physicians density">
+            <data>0.08 physicians/1,000 population (2009)</data>
+        </text>
+        <text name=" hospital bed density">
+            <data>1 beds/1,000 population (2009)</data>
+        </text>
+        <text name=" drinking water source">
+            <data>
+                <subdata>improved: urban: 98.8% of population</subdata>
+                <subdata>rural: 60.3% of population</subdata>
+                <subdata>total: 79.3% of population</subdata>
+                <subdata>unimproved: urban: 1.2% of population</subdata>
+                <subdata>rural: 39.7% of population</subdata>
+                <subdata>total: 20.7% of population (2015 est.)</subdata>
+            </data>
+        </text>
+        <text name=" sanitation facility access">
+            <data>
+                <subdata>improved: urban: 33.5% of population (2015 est.)</subdata>
+                <subdata>rural: 8.5% of population (2015 est.)</subdata>
+                <subdata>total: 20.8% of population (2015 est.)</subdata>
+                <subdata>unimproved: urban: 66.5% of population (2015 est.)</subdata>
+                <subdata>rural: 91.5% of population (2015 est.)</subdata>
+                <subdata>total: 79.2% of population (2015 est.)</subdata>
+            </data>
+        </text>
+        <text name=" hiv aids adult prevalence rate">
+            <data>
+                <subdata>3.4% (2017 est.)</subdata>
+                <subdata>country comparison to the world: 17</subdata>
+            </data>
+        </text>
+        <text name=" hiv aids people living with hiv aids">
+            <data>
+                <subdata>40,000 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 64</subdata>
+            </data>
+        </text>
+        <text name=" hiv aids deaths">
+            <data>
+                <subdata>1,900 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 53</subdata>
+            </data>
+        </text>
+        <text name=" major infectious diseases">
+            <data>
+                <subdata>degree of risk: very high (2016)</subdata>
+                <subdata>food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)</subdata>
+                <subdata>vectorborne diseases: malaria, dengue fever, and yellow fever (2016)</subdata>
+                <subdata>water contact diseases: schistosomiasis (2016)</subdata>
+                <subdata>animal contact diseases: rabies (2016)</subdata>
+            </data>
+        </text>
+        <text name=" obesity adult prevalence rate">
+            <data>
+                <subdata>9.5% (2016)</subdata>
+                <subdata>country comparison to the world: 144</subdata>
+            </data>
+        </text>
+        <text name=" children under the age of 5 years underweight">
+            <data>
+                <subdata>17% (2014)</subdata>
+                <subdata>country comparison to the world: 34</subdata>
+            </data>
+        </text>
+        <text name=" education expenditures">
+            <data>
+                <subdata>2.1% of GDP (2013)</subdata>
+                <subdata>country comparison to the world: 167</subdata>
+            </data>
+        </text>
+        <text name=" literacy">
+            <data>
+                <subdata>definition: age 15 and over can read and write (2015 est.)</subdata>
+                <subdata>total population: 59.9%</subdata>
+                <subdata>male: 71.8%</subdata>
+                <subdata>female: 48.3% (2015 est.)</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="government">
+        <text name=" country name">
+            <data>
+                <subdata>conventional long form: Republic of Guinea-Bissau</subdata>
+                <subdata>conventional short form: Guinea-Bissau</subdata>
+                <subdata>local long form: Republica da Guine-Bissau</subdata>
+                <subdata>local short form: Guine-Bissau</subdata>
+                <subdata>former: Portuguese Guinea</subdata>
+                <subdata>etymology: the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; "Bissau," the name of the capital city, distinguishes the country from neighboring Guinea</subdata>
+            </data>
+        </text>
+        <text name=" government type">
+            <data>semi-presidential republic</data>
+        </text>
+        <text name=" capital">
+            <data>
+                <subdata>name: Bissau</subdata>
+                <subdata>geographic coordinates: 11 51 N, 15 35 W</subdata>
+                <subdata>time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)</subdata>
+            </data>
+        </text>
+        <text name=" administrative divisions">
+            <data>9 regions (regioes, singular - regiao); Bafata, Biombo, Bissau, Bolama/Bijagos, Cacheu, Gabu, Oio, Quinara, Tombali</data>
+        </text>
+        <text name=" independence">
+            <data>24 September 1973 (declared); 10 September 1974 (from Portugal)</data>
+        </text>
+        <text name=" national holiday">
+            <data>Independence Day, 24 September (1973)</data>
+        </text>
+        <text name=" constitution">
+            <data>
+                <subdata>history: promulgated 16 May 1984; note - constitution suspended following military coup in April 2012 and restored in 2014</subdata>
+                <subdata>amendments: proposed by the National People’s Assembly if supported by at least one-third of its members, by the Council of State (a presidential consultant body), or by the government; passage requires approval by at least two-thirds majority vote of the Assembly; constitutional articles on the republican and secular form of government and national sovereignty cannot be amended; amended 1991, 1993, 1996 (2017)</subdata>
+            </data>
+        </text>
+        <text name=" legal system">
+            <data>mixed legal system of civil law, which incorporated Portuguese law at independence and influenced by early French civil code and customary law</data>
+        </text>
+        <text name=" international law organization participation">
+            <data>accepts compulsory ICJ jurisdiction; non-party state to the ICCt</data>
+        </text>
+        <text name=" citizenship">
+            <data>
+                <subdata>citizenship by birth: yes</subdata>
+                <subdata>citizenship by descent only: yes</subdata>
+                <subdata>dual citizenship recognized: no</subdata>
+                <subdata>residency requirement for naturalization: 5 years</subdata>
+            </data>
+        </text>
+        <text name=" suffrage">
+            <data>18 years of age; universal</data>
+        </text>
+        <text name=" executive branch">
+            <data>
+                <subdata>chief of state: President Jose Mario VAZ (since 17 June 2014)</subdata>
+                <subdata>head of government: Prime Minister Aristides GOMES (since 16 April 2018)</subdata>
+                <subdata>cabinet: Cabinet nominated by the prime minister, appointed by the president</subdata>
+                <subdata>elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 13 April 2014 with a runoff on 18 May 2014 (next to be held in 2019); prime minister appointed by the president after consultation with party leaders in the National People's Assembly</subdata>
+                <subdata>election results: Jose Mario VAZ elected president in second round; percent of vote in first round - Jose Mario VAZ (PAIGC) 41%, Nuno Gomez NABIAM (independent) 25.1%, other 33.9%; percent of vote in second round - Jose Mario VAZ 61.9%, Nuno Gomez NABIAM 38.1%</subdata>
+            </data>
+        </text>
+        <text name=" legislative branch">
+            <data>
+                <subdata>description: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (1 for Africa, 1 for Europe); all members serve 4-year terms)</subdata>
+                <subdata>elections: last held on 13 April 2014 (next originally for 18 November 2018, but postponed until 10 March 2019)</subdata>
+                <subdata>election results: percent of vote by party - PAIGC 48%, PRS 30.8%, other 21.2%; seats by party - PAIGC 57, PRS 41, other 4; composition - men 88, women 14, percent of women 13.7%</subdata>
+            </data>
+        </text>
+        <text name=" judicial branch">
+            <data>
+                <subdata>highest courts: Supreme Court or Suprema da Tribunal Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction</subdata>
+                <subdata>judge selection and term of office: judges nominated by the Higher Council of the Magistrate, a major government organ responsible for judge appointments, dismissals, and judiciary discipline; judges appointed by the president for life</subdata>
+                <subdata>subordinate courts: Appeal Court; regional (first instance) courts; military court</subdata>
+            </data>
+        </text>
+        <text name=" political parties and leaders">
+            <data>African Party for the Independence of Guinea-Bissau and Cabo Verde or PAIGC [Domingos SIMOES PEREIRA] Democratic Convergence Party or PCD [Vicente FERNANDES] New Democracy Party or PND [Mamadu Iaia DJALO] Party for Social Renewal or PRS [Alberto NAMBEIA] Republican Party for Independence and Development or PRID [Aristides GOMES] Union for Change or UM [Agnelo REGALA]</data>
+        </text>
+        <text name=" international organization participation">
+            <data>ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO</data>
+        </text>
+        <text name=" diplomatic representation in the us">
+            <data>none; note - Guinea-Bissau does not have official representation in Washington, DC</data>
+        </text>
+        <text name=" diplomatic representation from the us">
+            <data>the US Embassy suspended operations on 14 June 1998 in the midst of violent conflict between forces loyal to then President VIEIRA and a military-led junta; the US Ambassador to Senegal is accredited to Guinea-Bissau</data>
+        </text>
+        <text name=" flag description">
+            <data>
+                <subdata>two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; there is a black five-pointed star centered in the red band; yellow symbolizes the sun; green denotes hope; red represents blood shed during the struggle for independence; the black star stands for African unity</subdata>
+                <subdata>note: uses the popular Pan-African colors of Ethiopia; the flag design was heavily influenced by the Ghanaian flag</subdata>
+            </data>
+        </text>
+        <text name=" national symbol s">
+            <data>black star; national colors: red, yellow, green, black</data>
+        </text>
+        <text name=" national anthem">
+            <data>
+                <subdata>name: "Esta e a Nossa Patria Bem Amada" (This Is Our Beloved Country)</subdata>
+                <subdata>lyrics/music: Amilcar Lopes CABRAL/XIAO He</subdata>
+                <subdata>note: adopted 1974; a delegation from then Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to struggle for independence</subdata>
+                <subdata/>
+            </data>
+        </text>
+    </section>
+    <section name="economy">
+        <text name=" economy overview">
+            <data>Guinea-Bissau is highly dependent on subsistence agriculture, cashew nut exports, and foreign assistance. Two out of three Bissau-Guineans remain below the absolute poverty line. The legal economy is based on cashews and fishing. Illegal logging and trafficking in narcotics also play significant roles. The combination of limited economic prospects, weak institutions, and favorable geography have made this West African country a way station for drugs bound for Europe. Guinea-Bissau has substantial potential for development of mineral resources, including phosphates, bauxite, and mineral sands. Offshore oil and gas exploration has begun. The country’s climate and soil make it feasible to grow a wide range of cash crops, fruit, vegetables, and tubers; however, cashews generate more than 80% of export receipts and are the main source of income for many rural communities. The government was deposed in August 2015, and since then, a political stalemate has resulted in weak governance and reduced donor support. The country is participating in a three-year, IMF extended credit facility program that was suspended because of a planned bank bailout. The program was renewed in 2017, but the major donors of direct budget support (the EU, World Bank, and African Development Bank) have halted their programs indefinitely. Diversification of the economy remains a key policy goal, but Guinea-Bissau’s poor infrastructure and business climate will constrain this effort.</data>
+        </text>
+        <text name=" gdp purchasing power parity">
+            <data>
+                <subdata>$3.171 billion (2017 est.)</subdata>
+                <subdata>$2.994 billion (2016 est.)</subdata>
+                <subdata>$2.817 billion (2015 est.)</subdata>
+                <subdata>note: data are in 2017 dollars</subdata>
+                <subdata>country comparison to the world: 188</subdata>
+            </data>
+        </text>
+        <text name=" gdp official exchange rate">
+            <data>$1.35 billion (2017 est.)</data>
+        </text>
+        <text name=" gdp real growth rate">
+            <data>
+                <subdata>5.9% (2017 est.)</subdata>
+                <subdata>6.3% (2016 est.)</subdata>
+                <subdata>6.1% (2015 est.)</subdata>
+                <subdata>country comparison to the world: 36</subdata>
+            </data>
+        </text>
+        <text name=" gdp per capita ppp">
+            <data>
+                <subdata>$1,900 (2017 est.)</subdata>
+                <subdata>$1,800 (2016 est.)</subdata>
+                <subdata>$1,700 (2015 est.)</subdata>
+                <subdata>note: data are in 2017 dollars</subdata>
+                <subdata>country comparison to the world: 212</subdata>
+            </data>
+        </text>
+        <text name=" gross national saving">
+            <data>
+                <subdata>8.6% of GDP (2017 est.)</subdata>
+                <subdata>10.1% of GDP (2016 est.)</subdata>
+                <subdata>10.5% of GDP (2015 est.)</subdata>
+                <subdata>country comparison to the world: 168</subdata>
+            </data>
+        </text>
+        <text name=" gdp composition by end use">
+            <data>
+                <subdata>household consumption: 83.9% (2017 est.)</subdata>
+                <subdata>government consumption: 12% (2017 est.)</subdata>
+                <subdata>investment in fixed capital: 4.1% (2017 est.)</subdata>
+                <subdata>investment in inventories: 0.2% (2017 est.)</subdata>
+                <subdata>exports of goods and services: 26.4% (2017 est.)</subdata>
+                <subdata>imports of goods and services: -26.5% (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" gdp composition by sector of origin">
+            <data>
+                <subdata>agriculture: 50% (2017 est.)</subdata>
+                <subdata>industry: 13.1% (2017 est.)</subdata>
+                <subdata>services: 36.9% (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" agriculture products">
+            <data>rice, corn, beans, cassava (manioc, tapioca), cashew nuts, peanuts, palm kernels, cotton; timber; fish</data>
+        </text>
+        <text name=" industries">
+            <data>agricultural products processing, beer, soft drinks</data>
+        </text>
+        <text name=" industrial production growth rate">
+            <data>
+                <subdata>2.5% (2017 est.)</subdata>
+                <subdata>country comparison to the world: 117</subdata>
+            </data>
+        </text>
+        <text name=" labor force">
+            <data>
+                <subdata>731,300 (2013 est.)</subdata>
+                <subdata>country comparison to the world: 151</subdata>
+            </data>
+        </text>
+        <text name=" labor force by occupation">
+            <data>
+                <subdata>agriculture: 82%</subdata>
+                <subdata>industry and services: 18% (2000 est.)</subdata>
+            </data>
+        </text>
+        <text name=" unemployment rate">
+            <data>NA</data>
+        </text>
+        <text name=" population below poverty line">
+            <data>67% (2015 est.)</data>
+        </text>
+        <text name=" household income or consumption by percentage share">
+            <data>
+                <subdata>lowest 10%: 2.9%</subdata>
+                <subdata>highest 10%: 28% (2002)</subdata>
+            </data>
+        </text>
+        <text name=" budget">
+            <data>
+                <subdata>revenues: 246.2 million (2017 est.)</subdata>
+                <subdata>expenditures: 263.5 million (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" taxes and other revenues">
+            <data>
+                <subdata>18.2% (of GDP) (2017 est.)</subdata>
+                <subdata>country comparison to the world: 162</subdata>
+            </data>
+        </text>
+        <text name=" budget surplus or deficit">
+            <data>
+                <subdata>-1.3% (of GDP) (2017 est.)</subdata>
+                <subdata>country comparison to the world: 86</subdata>
+            </data>
+        </text>
+        <text name=" public debt">
+            <data>
+                <subdata>53.9% of GDP (2017 est.)</subdata>
+                <subdata>57.9% of GDP (2016 est.)</subdata>
+                <subdata>country comparison to the world: 87</subdata>
+            </data>
+        </text>
+        <text name=" fiscal year">
+            <data>calendar year</data>
+        </text>
+        <text name=" inflation rate consumer prices">
+            <data>
+                <subdata>1.1% (2017 est.)</subdata>
+                <subdata>1.5% (2016 est.)</subdata>
+                <subdata>country comparison to the world: 60</subdata>
+            </data>
+        </text>
+        <text name=" central bank discount rate">
+            <data>
+                <subdata>4.25% (31 December 2009)</subdata>
+                <subdata>4.75% (31 December 2008)</subdata>
+                <subdata>country comparison to the world: 94</subdata>
+            </data>
+        </text>
+        <text name=" commercial bank prime lending rate">
+            <data>
+                <subdata>5.5% (31 December 2017 est.)</subdata>
+                <subdata>5.3% (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 134</subdata>
+            </data>
+        </text>
+        <text name=" stock of narrow money">
+            <data>
+                <subdata>$583.6 million (31 December 2017 est.)</subdata>
+                <subdata>$489.2 million (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 166</subdata>
+            </data>
+        </text>
+        <text name=" stock of broad money">
+            <data>
+                <subdata>$583.6 million (31 December 2017 est.)</subdata>
+                <subdata>$489.2 million (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 170</subdata>
+            </data>
+        </text>
+        <text name=" stock of domestic credit">
+            <data>
+                <subdata>$250.3 million (31 December 2017 est.)</subdata>
+                <subdata>$232.4 million (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 182</subdata>
+            </data>
+        </text>
+        <text name=" market value of publicly traded shares">
+            <data>NA</data>
+        </text>
+        <text name=" current account balance">
+            <data>
+                <subdata>-$27 million (2017 est.)</subdata>
+                <subdata>$16 million (2016 est.)</subdata>
+                <subdata>country comparison to the world: 75</subdata>
+            </data>
+        </text>
+        <text name=" exports">
+            <data>
+                <subdata>$328.1 million (2017 est.)</subdata>
+                <subdata>$278.6 million (2016 est.)</subdata>
+                <subdata>country comparison to the world: 185</subdata>
+            </data>
+        </text>
+        <text name=" exports partners">
+            <data>India 67.1%, Vietnam 21.1% (2017)</data>
+        </text>
+        <text name=" exports commodities">
+            <data>fish, shrimp; cashews, peanuts, palm kernels, raw and sawn lumber</data>
+        </text>
+        <text name=" imports">
+            <data>
+                <subdata>$283.5 million (2017 est.)</subdata>
+                <subdata>$136.5 million (2016 est.)</subdata>
+                <subdata>country comparison to the world: 205</subdata>
+            </data>
+        </text>
+        <text name=" imports commodities">
+            <data>foodstuffs, machinery and transport equipment, petroleum products</data>
+        </text>
+        <text name=" imports partners">
+            <data>Portugal 47.8%, Senegal 12.1%, China 10.4%, Netherlands 8.1%, Pakistan 5.4% (2017)</data>
+        </text>
+        <text name=" reserves of foreign exchange and gold">
+            <data>
+                <subdata>$356.4 million (31 December 2017 est.)</subdata>
+                <subdata>$349.4 million (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 163</subdata>
+            </data>
+        </text>
+        <text name=" debt external">
+            <data>
+                <subdata>$1.095 billion (31 December 2010 est.)</subdata>
+                <subdata>$941.5 million (31 December 2000 est.)</subdata>
+                <subdata>country comparison to the world: 164</subdata>
+            </data>
+        </text>
+        <text name=" exchange rates">
+            <data>
+                <subdata>Communaute Financiere Africaine francs (XOF) per US dollar -</subdata>
+                <subdata>605.3 (2017 est.)</subdata>
+                <subdata>593.01 (2016 est.)</subdata>
+                <subdata>593.01 (2015 est.)</subdata>
+                <subdata>591.45 (2014 est.)</subdata>
+                <subdata>494.42 (2013 est.)</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="energy">
+        <text name=" electricity access">
+            <data>
+                <subdata>population without electricity: 1.3 million (2013)</subdata>
+                <subdata>electrification - total population: 21% (2013)</subdata>
+                <subdata>electrification - urban areas: 37% (2013)</subdata>
+                <subdata>electrification - rural areas: 6% (2013)</subdata>
+            </data>
+        </text>
+        <text name=" electricity production">
+            <data>
+                <subdata>39 million kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 208</subdata>
+            </data>
+        </text>
+        <text name=" electricity consumption">
+            <data>
+                <subdata>36.27 million kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 208</subdata>
+            </data>
+        </text>
+        <text name=" electricity exports">
+            <data>
+                <subdata>0 kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 145</subdata>
+            </data>
+        </text>
+        <text name=" electricity imports">
+            <data>
+                <subdata>0 kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 157</subdata>
+            </data>
+        </text>
+        <text name=" electricity installed generating capacity">
+            <data>
+                <subdata>28,300 kW (2016 est.)</subdata>
+                <subdata>country comparison to the world: 200</subdata>
+            </data>
+        </text>
+        <text name=" electricity from fossil fuels">
+            <data>
+                <subdata>99% of total installed capacity (2016 est.)</subdata>
+                <subdata>country comparison to the world: 24</subdata>
+            </data>
+        </text>
+        <text name=" electricity from nuclear fuels">
+            <data>
+                <subdata>0% of total installed capacity (2017 est.)</subdata>
+                <subdata>country comparison to the world: 104</subdata>
+            </data>
+        </text>
+        <text name=" electricity from hydroelectric plants">
+            <data>
+                <subdata>0% of total installed capacity (2017 est.)</subdata>
+                <subdata>country comparison to the world: 176</subdata>
+            </data>
+        </text>
+        <text name=" electricity from other renewable sources">
+            <data>
+                <subdata>1% of total installed capacity (2017 est.)</subdata>
+                <subdata>country comparison to the world: 154</subdata>
+            </data>
+        </text>
+        <text name=" crude oil production">
+            <data>
+                <subdata>0 bbl/day (2017 est.)</subdata>
+                <subdata>country comparison to the world: 145</subdata>
+            </data>
+        </text>
+        <text name=" crude oil exports">
+            <data>
+                <subdata>0 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 134</subdata>
+            </data>
+        </text>
+        <text name=" crude oil imports">
+            <data>
+                <subdata>0 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 138</subdata>
+            </data>
+        </text>
+        <text name=" crude oil proved reserves">
+            <data>
+                <subdata>0 bbl (1 January 2018 est.)</subdata>
+                <subdata>country comparison to the world: 142</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products production">
+            <data>
+                <subdata>0 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 154</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products consumption">
+            <data>
+                <subdata>2,700 bbl/day (2016 est.)</subdata>
+                <subdata>country comparison to the world: 190</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products exports">
+            <data>
+                <subdata>0 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 163</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products imports">
+            <data>
+                <subdata>2,625 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 186</subdata>
+            </data>
+        </text>
+        <text name=" natural gas production">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 143</subdata>
+            </data>
+        </text>
+        <text name=" natural gas consumption">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 156</subdata>
+            </data>
+        </text>
+        <text name=" natural gas exports">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 118</subdata>
+            </data>
+        </text>
+        <text name=" natural gas imports">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 136</subdata>
+            </data>
+        </text>
+        <text name=" natural gas proved reserves">
+            <data>
+                <subdata>0 cu m (1 January 2014 est.)</subdata>
+                <subdata>country comparison to the world: 144</subdata>
+            </data>
+        </text>
+        <text name=" carbon dioxide emissions from consumption of energy">
+            <data>
+                <subdata>397,900 Mt (2017 est.)</subdata>
+                <subdata>country comparison to the world: 188</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="communications">
+        <text name=" telephones fixed lines">
+            <data>
+                <subdata>0 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 220</subdata>
+            </data>
+        </text>
+        <text name=" telephones mobile cellular">
+            <data>
+                <subdata>total subscriptions: 1,434,822 (2017 est.)</subdata>
+                <subdata>subscriptions per 100 inhabitants: 80 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 155</subdata>
+            </data>
+        </text>
+        <text name=" telephone system">
+            <data>
+                <subdata>general assessment: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications; 3 mobile network operators (MNO)</subdata>
+                <subdata>domestic: fixed-line teledensity less than 1 per 100 persons; mobile cellular teledensity is roughly 70 per 100 persons</subdata>
+                <subdata>international: country code - 245 (2015)</subdata>
+            </data>
+        </text>
+        <text name=" broadcast media">
+            <data>1 state-owned TV station and a second station, Radio e Televisao de Portugal (RTP) Africa, is operated by Portuguese public broadcaster (RTP); 1 state-owned radio station, several private radio stations, and some community radio stations; multiple international broadcasters are available (2007)</data>
+        </text>
+        <text name=" internet country code">
+            <data>.gw</data>
+        </text>
+        <text name=" internet users">
+            <data>
+                <subdata>total: 66,169 (July 2016 est.)</subdata>
+                <subdata>percent of population: 3.8% (July 2016 est.)</subdata>
+                <subdata>country comparison to the world: 184</subdata>
+            </data>
+        </text>
+        <text name=" broadband fixed subscriptions">
+            <data>
+                <subdata>total: 629 (2017 est.)</subdata>
+                <subdata>subscriptions per 100 inhabitants: less than 1 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 194</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="transportation">
+        <text name=" civil aircraft registration country code prefix">
+            <data>J5 (2016)</data>
+        </text>
+        <text name=" airports">
+            <data>
+                <subdata>8 (2013)</subdata>
+                <subdata>country comparison to the world: 160</subdata>
+            </data>
+        </text>
+        <text name=" airports with paved runways">
+            <data>
+                <subdata>total: 2 (2017)</subdata>
+                <subdata>over 3,047 m: 1 (2017)</subdata>
+                <subdata>1,524 to 2,437 m: 1 (2017)</subdata>
+            </data>
+        </text>
+        <text name=" airports with unpaved runways">
+            <data>
+                <subdata>total: 6 (2013)</subdata>
+                <subdata>1,524 to 2,437 m: 1 (2013)</subdata>
+                <subdata>914 to 1,523 m: 2 (2013)</subdata>
+                <subdata>under 914 m: 3 (2013)</subdata>
+            </data>
+        </text>
+        <text name=" roadways">
+            <data/>
+        </text>
+        <text name=" waterways">
+            <data>(rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior) (2012)</data>
+        </text>
+        <text name=" merchant marine">
+            <data>
+                <subdata>total: 9</subdata>
+                <subdata>by type: general cargo 5, other 4 (2018)</subdata>
+                <subdata>country comparison to the world: 156</subdata>
+            </data>
+        </text>
+        <text name=" ports and terminals">
+            <data>major seaport(s): Bissau, Buba, Cacheu, Farim</data>
+        </text>
+    </section>
+    <section name="military">
+        <text name=" military expenditures">
+            <data>
+                <subdata>1.76% of GDP (2015)</subdata>
+                <subdata>1.94% of GDP (2014)</subdata>
+                <subdata>2.11% of GDP (2013)</subdata>
+                <subdata>2.46% of GDP (2012)</subdata>
+                <subdata>1.58% of GDP (2011)</subdata>
+                <subdata>country comparison to the world: 64</subdata>
+            </data>
+        </text>
+        <text name=" military branches">
+            <data>People's Revolutionary Armed Force (FARP): Army, Navy, National Air Force (Forca Aerea Nacional); Presidential Guard (2012)</data>
+        </text>
+        <text name=" military service age and obligation">
+            <data>18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2013)</data>
+        </text>
+    </section>
+    <section name="transnational">
+        <text name=" disputes international">
+            <data>a longstanding low-grade conflict continues in parts of Casamance, in Senegal across the border; some rebels use Guinea-Bissau as a safe haven</data>
+        </text>
+        <text name=" refugees and internally displaced persons">
+            <data>refugees (country of origin): 10,000 (Senegal) (2018)</data>
+        </text>
+        <text name=" trafficking in persons">
+            <data>
+                <subdata>current situation: Guinea-Bissau is a source country for children subjected to forced labor and sex trafficking; the extent to which adults are trafficked for forced labor or forced prostitution is unclear; boys are forced into street vending in Guinea-Bissau and manual labor, agriculture, and mining in Senegal, while girls may be forced into street vending, domestic service, and, to a lesser extent, prostitution in Guinea and Senegal; some Bissau-Guinean boys at Koranic schools are forced into begging by religious teachers</subdata>
+                <subdata>tier rating: Tier 3 - Guinea-Bissau does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; despite enacting an anti-trafficking law and adopting a national action plan in 2011, the country failed to demonstrate any notable anti-trafficking efforts for the third consecutive year; existing laws prohibiting all forms of trafficking were not used to prosecute any trafficking offenders in 2014, and only one case of potential child labor trafficking was under investigation; authorities continued to rely entirely on NGOs and international organizations to provide victims with protective services; no trafficking prevention activities were conducted (2015)</subdata>
+            </data>
+        </text>
+        <text name=" illicit drugs">
+            <data>increasingly important transit country for South American cocaine en route to Europe; enabling environment for trafficker operations due to pervasive corruption; archipelago-like geography near the capital facilitates drug smuggling</data>
+        </text>
+    </section>
+</country>

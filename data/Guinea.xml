@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country name="Guinea">
+    <section name="introduction">
+        <text name=" background">
+            <data>Guinea is at a turning point after decades of authoritarian rule since gaining its independence from France in 1958. Sekou TOURE ruled the country as president from independence to his death in 1984. Lansana CONTE came to power in 1984 when the military seized the government after TOURE's death. Gen. CONTE organized and won presidential elections in 1993, 1998, and 2003, though all the polls were rigged. Upon CONTE's death in December 2008, Capt. Moussa Dadis CAMARA led a military coup, seizing power and suspending the constitution. His unwillingness to yield to domestic and international pressure to step down led to heightened political tensions that peaked in September 2009 when presidential guards opened fire on an opposition rally killing more than 150 people. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. A transitional government led by Gen. Sekouba KONATE paved the way for Guinea's transition to a fledgling democracy. The country held its first free and competitive democratic presidential and legislative elections in 2010 and 2013 respectively, and in October 2015 held a second consecutive presidential election. Alpha CONDE was reelected to a second five-year term as president in 2015, and the National Assembly was seated in January 2014. CONDE's first cabinet is the first all-civilian government in Guinea. The country held a successful political dialogue in August and September 2016 that brought together the government and opposition to address long-standing tensions. Local elections were held in February 2018, and disputed results in some of the races resulted in ongoing protests against CONDE's government.</data>
+        </text>
+    </section>
+    <section name="geography">
+        <text name=" location">
+            <data>Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone</data>
+        </text>
+        <text name=" geographic coordinates">
+            <data>11 00 N, 10 00 W</data>
+        </text>
+        <text name=" map references">
+            <data>Africa</data>
+        </text>
+        <text name=" area">
+            <data>
+                <subdata>total: 245,857 sq km</subdata>
+                <subdata>land: 245,717 sq km</subdata>
+                <subdata>water: 140 sq km</subdata>
+                <subdata>country comparison to the world: 80</subdata>
+            </data>
+        </text>
+        <text name=" area comparative">
+            <data>slightly smaller than Oregon</data>
+        </text>
+        <text name=" land boundaries">
+            <data>
+                <subdata>total: 4,046 km</subdata>
+                <subdata>border countries (6): Cote d'Ivoire 816 km, Guinea-Bissau 421 km, Liberia 590 km, Mali 1062 km, Senegal 363 km, Sierra Leone 794 km</subdata>
+            </data>
+        </text>
+        <text name=" coastline">
+            <data>320 km</data>
+        </text>
+        <text name=" maritime claims">
+            <data>
+                <subdata>territorial sea: 12 nm</subdata>
+                <subdata>exclusive economic zone: 200 nm</subdata>
+            </data>
+        </text>
+        <text name=" climate">
+            <data>generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds</data>
+        </text>
+        <text name=" terrain">
+            <data>generally flat coastal plain, hilly to mountainous interior</data>
+        </text>
+        <text name=" elevation">
+            <data>
+                <subdata>mean elevation: 472 m</subdata>
+                <subdata>lowest point: Atlantic Ocean 0 m</subdata>
+                <subdata>highest point: Mont Nimba 1,752 m</subdata>
+            </data>
+        </text>
+        <text name=" natural resources">
+            <data>bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt</data>
+        </text>
+        <text name=" land use">
+            <data>
+                <subdata>agricultural land: 58.1% (2011 est.)</subdata>
+                <subdata>arable land: 11.8% (2011 est.) / permanent crops: 2.8% (2011 est.) / permanent pasture: 43.5% (2011 est.)</subdata>
+                <subdata>forest: 26.5% (2011 est.)</subdata>
+                <subdata>other: 15.4% (2011 est.)</subdata>
+            </data>
+        </text>
+        <text name=" irrigated land">
+            <data>950 sq km (2012)</data>
+        </text>
+        <text name=" population distribution">
+            <data>areas of highest density are in the west and south; interior is sparsely populated</data>
+        </text>
+        <text name=" natural hazards">
+            <data>hot, dry, dusty harmattan haze may reduce visibility during dry season</data>
+        </text>
+        <text name=" environment current issues">
+            <data>deforestation; inadequate potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices lead to environmental damage; water pollution; improper waste disposal</data>
+        </text>
+        <text name=" environment international agreements">
+            <data>
+                <subdata>party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</subdata>
+                <subdata>signed, but not ratified: none of the selected agreements</subdata>
+            </data>
+        </text>
+        <text name=" geography note">
+            <data>the Niger and its important tributary the Milo River have their sources in the Guinean highlands</data>
+        </text>
+    </section>
+    <section name="people">
+        <text name=" population">
+            <data>
+                <subdata>11,855,411 (July 2018 est.)</subdata>
+                <subdata>country comparison to the world: 75</subdata>
+            </data>
+        </text>
+        <text name=" nationality">
+            <data>
+                <subdata>noun: Guinean(s)</subdata>
+                <subdata>adjective: Guinean</subdata>
+            </data>
+        </text>
+        <text name=" ethnic groups">
+            <data>Fulani (Peuhl) 32.1%, Malinke 29.8%, Susu 19.8%, Guerze 6.2%, Kissi 4.7%, Toma 2.8%, other/no answer 4.6% (2012 est.)</data>
+        </text>
+        <text name=" languages">
+            <data>
+                <subdata>French (official), Pular, Maninka, Susu, other native languages</subdata>
+                <subdata>note: each ethnic group has its own language</subdata>
+            </data>
+        </text>
+        <text name=" religions">
+            <data>Muslim 89.1%, Christian 6.8%, animist 1.6%, other .1%, none 2.4% (2014 est.)</data>
+        </text>
+        <text name=" demographic profile">
+            <data>Guinea’s strong population growth is a result of declining mortality rates and sustained elevated fertility. The population growth rate was somewhat tempered in the 2000s because of a period of net outmigration. Although life expectancy and mortality rates have improved over the last two decades, the nearly universal practice of female genital cutting continues to contribute to high infant and maternal mortality rates. Guinea’s total fertility remains high at about 5 children per woman because of the ongoing preference for larger families, low contraceptive usage and availability, a lack of educational attainment and empowerment among women, and poverty. A lack of literacy and vocational training programs limit job prospects for youths, but even those with university degrees often have no option but to work in the informal sector. About 60% of the country’s large youth population is unemployed. Tensions and refugees have spilled over Guinea’s borders with Sierra Leone, Liberia, and Cote d’Ivoire. During the 1990s Guinea harbored as many as half a million refugees from Sierra Leone and Liberia, more refugees than any other African country for much of that decade. About half sought refuge in the volatile "Parrot’s Beak" region of southwest Guinea, a wedge of land jutting into Sierra Leone near the Liberian border. Many were relocated within Guinea in the early 2000s because the area suffered repeated cross-border attacks from various government and rebel forces, as well as anti-refugee violence.</data>
+        </text>
+        <text name=" age structure">
+            <data>
+                <subdata>0-14 years: 41.4% (male 2,473,486 /female 2,435,139)</subdata>
+                <subdata>15-24 years: 19.23% (male 1,145,488 /female 1,134,103)</subdata>
+                <subdata>25-54 years: 30.8% (male 1,827,246 /female 1,824,162)</subdata>
+                <subdata>55-64 years: 4.72% (male 269,995 /female 289,164)</subdata>
+                <subdata>65 years and over: 3.85% (male 203,754 /female 252,874) (2018 est.)</subdata>
+                <subdata>population pyramid: The World Factbook Field Image Modal × Africa :: Guinea Print Image Description This is the population pyramid for Guinea. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. For additional information, please see the entry for Population pyramid on the Definitions and Notes page under the References tab.</subdata>
+            </data>
+        </text>
+        <text name=" dependency ratios">
+            <data>
+                <subdata>total dependency ratio: 84.2 (2015 est.)</subdata>
+                <subdata>youth dependency ratio: 78.6 (2015 est.)</subdata>
+                <subdata>elderly dependency ratio: 5.6 (2015 est.)</subdata>
+                <subdata>potential support ratio: 17.8 (2015 est.)</subdata>
+            </data>
+        </text>
+        <text name=" median age">
+            <data>
+                <subdata>total: 19 years</subdata>
+                <subdata>male: 18.8 years</subdata>
+                <subdata>female: 19.3 years (2018 est.)</subdata>
+                <subdata>country comparison to the world: 204</subdata>
+            </data>
+        </text>
+        <text name=" population growth rate">
+            <data>
+                <subdata>2.75% (2018 est.)</subdata>
+                <subdata>country comparison to the world: 13</subdata>
+            </data>
+        </text>
+        <text name=" birth rate">
+            <data>
+                <subdata>36.4 births/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 16</subdata>
+            </data>
+        </text>
+        <text name=" death rate">
+            <data>
+                <subdata>8.9 deaths/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 64</subdata>
+            </data>
+        </text>
+        <text name=" net migration rate">
+            <data>
+                <subdata>0 migrant(s)/1,000 population (2018 est.)</subdata>
+                <subdata>country comparison to the world: 85</subdata>
+            </data>
+        </text>
+        <text name=" population distribution">
+            <data>areas of highest density are in the west and south; interior is sparsely populated</data>
+        </text>
+        <text name=" urbanization">
+            <data>
+                <subdata>urban population: 36.1% of total population (2018)</subdata>
+                <subdata>rate of urbanization: 3.54% annual rate of change (2015-20 est.)</subdata>
+            </data>
+        </text>
+        <text name=" major urban areas population">
+            <data>1.843 million CONAKRY (capital) (2018)</data>
+        </text>
+        <text name=" sex ratio">
+            <data>
+                <subdata>at birth: 1.02 male(s)/female</subdata>
+                <subdata>0-14 years: 1.02 male(s)/female (2017 est.)</subdata>
+                <subdata>15-24 years: 1.02 male(s)/female (2017 est.)</subdata>
+                <subdata>25-54 years: 1.01 male(s)/female (2017 est.)</subdata>
+                <subdata>55-64 years: 0.92 male(s)/female (2017 est.)</subdata>
+                <subdata>65 years and over: 0.79 male(s)/female (2017 est.)</subdata>
+                <subdata>total population: 1 male(s)/female (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" mother s mean age at first birth">
+            <data>
+                <subdata>18.9 years (2012 est.)</subdata>
+                <subdata>note: median age at first birth among women 25-29</subdata>
+            </data>
+        </text>
+        <text name=" maternal mortality rate">
+            <data>
+                <subdata>679 deaths/100,000 live births (2015 est.)</subdata>
+                <subdata>country comparison to the world: 11</subdata>
+            </data>
+        </text>
+        <text name=" infant mortality rate">
+            <data>
+                <subdata>total: 55.3 deaths/1,000 live births</subdata>
+                <subdata>male: 60.4 deaths/1,000 live births</subdata>
+                <subdata>female: 50.1 deaths/1,000 live births (2018 est.)</subdata>
+                <subdata>country comparison to the world: 19</subdata>
+            </data>
+        </text>
+        <text name=" life expectancy at birth">
+            <data>
+                <subdata>total population: 62.1 years</subdata>
+                <subdata>male: 60.4 years</subdata>
+                <subdata>female: 64 years (2018 est.)</subdata>
+                <subdata>country comparison to the world: 201</subdata>
+            </data>
+        </text>
+        <text name=" total fertility rate">
+            <data>
+                <subdata>4.98 children born/woman (2018 est.)</subdata>
+                <subdata>country comparison to the world: 14</subdata>
+            </data>
+        </text>
+        <text name=" contraceptive prevalence rate">
+            <data>8.7% (2016)</data>
+        </text>
+        <text name=" health expenditures">
+            <data>
+                <subdata>5.6% of GDP (2014)</subdata>
+                <subdata>country comparison to the world: 119</subdata>
+            </data>
+        </text>
+        <text name=" physicians density">
+            <data>0.08 physicians/1,000 population (2016)</data>
+        </text>
+        <text name=" hospital bed density">
+            <data>0.3 beds/1,000 population (2011)</data>
+        </text>
+        <text name=" drinking water source">
+            <data>
+                <subdata>improved: urban: 92.7% of population</subdata>
+                <subdata>rural: 67.4% of population</subdata>
+                <subdata>total: 76.8% of population</subdata>
+                <subdata>unimproved: urban: 7.3% of population</subdata>
+                <subdata>rural: 32.6% of population</subdata>
+                <subdata>total: 23.2% of population (2015 est.)</subdata>
+            </data>
+        </text>
+        <text name=" sanitation facility access">
+            <data>
+                <subdata>improved: urban: 34.1% of population (2015 est.)</subdata>
+                <subdata>rural: 11.8% of population (2015 est.)</subdata>
+                <subdata>total: 20.1% of population (2015 est.)</subdata>
+                <subdata>unimproved: urban: 65.9% of population (2015 est.)</subdata>
+                <subdata>rural: 88.2% of population (2015 est.)</subdata>
+                <subdata>total: 79.9% of population (2015 est.)</subdata>
+            </data>
+        </text>
+        <text name=" hiv aids adult prevalence rate">
+            <data>
+                <subdata>1.5% (2017 est.)</subdata>
+                <subdata>country comparison to the world: 33</subdata>
+            </data>
+        </text>
+        <text name=" hiv aids people living with hiv aids">
+            <data>
+                <subdata>120,000 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 39</subdata>
+            </data>
+        </text>
+        <text name=" hiv aids deaths">
+            <data>
+                <subdata>5,100 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 27</subdata>
+            </data>
+        </text>
+        <text name=" major infectious diseases">
+            <data>
+                <subdata>degree of risk: very high (2016)</subdata>
+                <subdata>food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)</subdata>
+                <subdata>vectorborne diseases: malaria, dengue fever, and yellow fever (2016)</subdata>
+                <subdata>water contact diseases: schistosomiasis (2016)</subdata>
+                <subdata>animal contact diseases: rabies (2016)</subdata>
+                <subdata>aerosolized dust or soil contact diseases: Lassa fever (2016)</subdata>
+            </data>
+        </text>
+        <text name=" obesity adult prevalence rate">
+            <data>
+                <subdata>7.7% (2016)</subdata>
+                <subdata>country comparison to the world: 158</subdata>
+            </data>
+        </text>
+        <text name=" children under the age of 5 years underweight">
+            <data>
+                <subdata>18.3% (2016)</subdata>
+                <subdata>country comparison to the world: 30</subdata>
+            </data>
+        </text>
+        <text name=" education expenditures">
+            <data>
+                <subdata>2.2% of GDP (2017)</subdata>
+                <subdata>country comparison to the world: 165</subdata>
+            </data>
+        </text>
+        <text name=" literacy">
+            <data>
+                <subdata>definition: age 15 and over can read and write (2015 est.)</subdata>
+                <subdata>total population: 30.4%</subdata>
+                <subdata>male: 38.1%</subdata>
+                <subdata>female: 22.8% (2015 est.)</subdata>
+            </data>
+        </text>
+        <text name=" school life expectancy primary to tertiary education">
+            <data>
+                <subdata>total: 9 years</subdata>
+                <subdata>male: 10 years</subdata>
+                <subdata>female: 8 years (2014)</subdata>
+            </data>
+        </text>
+        <text name=" unemployment youth ages 15 24">
+            <data>
+                <subdata>total: 1%</subdata>
+                <subdata>male: 1.5%</subdata>
+                <subdata>female: 0.6% (2012 est.)</subdata>
+                <subdata>country comparison to the world: 171</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="government">
+        <text name=" country name">
+            <data>
+                <subdata>conventional long form: Republic of Guinea</subdata>
+                <subdata>conventional short form: Guinea</subdata>
+                <subdata>local long form: Republique de Guinee</subdata>
+                <subdata>local short form: Guinee</subdata>
+                <subdata>former: French Guinea</subdata>
+                <subdata>etymology: the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel</subdata>
+            </data>
+        </text>
+        <text name=" government type">
+            <data>presidential republic</data>
+        </text>
+        <text name=" capital">
+            <data>
+                <subdata>name: Conakry</subdata>
+                <subdata>geographic coordinates: 9 30 N, 13 42 W</subdata>
+                <subdata>time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)</subdata>
+            </data>
+        </text>
+        <text name=" administrative divisions">
+            <data>7 regions administrative and 1 gouvenorat*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N'Zerekore</data>
+        </text>
+        <text name=" independence">
+            <data>2 October 1958 (from France)</data>
+        </text>
+        <text name=" national holiday">
+            <data>Independence Day, 2 October (1958)</data>
+        </text>
+        <text name=" constitution">
+            <data>
+                <subdata>history: previous 1958, 1990; latest promulgated 19 April 2010, approved 7 May 2010</subdata>
+                <subdata>amendments: proposed by the National Assembly or by the president of the republic; consideration of proposals requires approval by simple majority vote by the Assembly; passage requires approval in referendum; the president can opt to submit amendments directly to the Assembly, in which case approval requires at least two-thirds majority vote (2017)</subdata>
+            </data>
+        </text>
+        <text name=" legal system">
+            <data>civil law system based on the French model</data>
+        </text>
+        <text name=" international law organization participation">
+            <data>accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction</data>
+        </text>
+        <text name=" citizenship">
+            <data>
+                <subdata>citizenship by birth: no</subdata>
+                <subdata>citizenship by descent only: at least one parent must be a citizen of Guinea</subdata>
+                <subdata>dual citizenship recognized: no</subdata>
+                <subdata>residency requirement for naturalization: na</subdata>
+            </data>
+        </text>
+        <text name=" suffrage">
+            <data>18 years of age; universal</data>
+        </text>
+        <text name=" executive branch">
+            <data>
+                <subdata>chief of state: President Alpha CONDE (since 21 December 2010)</subdata>
+                <subdata>head of government: Prime Minister Ibrahima FOFANA (since 22 May 2018)</subdata>
+                <subdata>cabinet: Council of Ministers appointed by the president</subdata>
+                <subdata>elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 11 October 2015 (next to be held in 2020); prime minister appointed by the president</subdata>
+                <subdata>election results: Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%</subdata>
+            </data>
+        </text>
+        <text name=" legislative branch">
+            <data>
+                <subdata>description: unicameral People's National Assembly or Assemblee Nationale Populaire (114 seats; 76 members directly elected in a single nationwide constituency by proportional representation vote and 38 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)</subdata>
+                <subdata>elections: last held on 28 September 2013 (next originally scheduled for December 2018, but moved to January 2019)</subdata>
+                <subdata>election results: percent of vote by party - NA; seats by party - RPG 53, UFDG 37, UFR 10, PEDN 2, UPG 2, other 10; composition - men 89, women 25, percent of women 21.9%</subdata>
+            </data>
+        </text>
+        <text name=" judicial branch">
+            <data>
+                <subdata>highest courts: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, at least 4 councillors, the solicitor general, and NA deputies); Constitutional Court (consists of 9 members)</subdata>
+                <subdata>judge selection and term of office: Supreme Court first president appointed by the national president after consultation with the National Assembly; other members appointed by presidential decree; members serve until age 65; Constitutional Court member appointments - 2 by the National Assembly and the president of the republic, 3 experienced judges designated by their peers, 1 experienced lawyer, 1 university professor with expertise in public law designated by peers, and 2 experienced representatives of the Independent National Institution of Human Rights; members serve single 9-year terms</subdata>
+                <subdata>subordinate courts: Court of Appeal or Cour d'Appel; High Court of Justice or Cour d'Assises; Court of Account (Court of Auditors); Courts of First Instance (Tribunal de Premiere Instance); labor court; military tribunal; justices of the peace; specialized courts</subdata>
+            </data>
+        </text>
+        <text name=" political parties and leaders">
+            <data>Bloc Liberal or BL [Faya MILLIMONO] National Party for Hope and Development or PEDN [Lansana KOUYATE] Rally for the Guinean People or RPG [Alpha CONDE] Union for the Progress of Guinea or UPG Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO] Union of Republican Forces or UFR [Sidya TOURE]</data>
+        </text>
+        <text name=" international organization participation">
+            <data>ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO</data>
+        </text>
+        <text name=" diplomatic representation in the us">
+            <data>
+                <subdata>chief of mission: Ambassador Kerfalla YANSANE (since 24 January 2018)</subdata>
+                <subdata>chancery: 2112 Leroy Place NW, Washington, DC 20008</subdata>
+                <subdata>telephone: [1] (202) 986-4300</subdata>
+                <subdata>FAX: [1] (202) 986-3800</subdata>
+            </data>
+        </text>
+        <text name=" diplomatic representation from the us">
+            <data>
+                <subdata>chief of mission: Ambassador Dennis B. HANKINS (since December 2015)</subdata>
+                <subdata>embassy: Koloma, Conakry, across from Radio Television de Guinee</subdata>
+                <subdata>mailing address: P.O. Box 603, Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma, Conakry</subdata>
+                <subdata>telephone: [224] 655-10-40-00</subdata>
+                <subdata>FAX: [224] 655-10-42-97</subdata>
+            </data>
+        </text>
+        <text name=" flag description">
+            <data>
+                <subdata>three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity</subdata>
+                <subdata>note: uses the popular Pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal</subdata>
+            </data>
+        </text>
+        <text name=" national symbol s">
+            <data>elephant; national colors: red, yellow, green</data>
+        </text>
+        <text name=" national anthem">
+            <data>
+                <subdata>name: "Liberte" (Liberty)</subdata>
+                <subdata>lyrics/music: unknown/Fodeba KEITA</subdata>
+                <subdata>note: adopted 1958</subdata>
+                <subdata/>
+            </data>
+        </text>
+    </section>
+    <section name="economy">
+        <text name=" economy overview">
+            <data>Guinea is a poor country of approximately 12.9 million people in 2016 that possesses the world's largest reserves of bauxite and largest untapped high-grade iron ore reserves, as well as gold and diamonds. In addition, Guinea has fertile soil, ample rainfall, and is the source of several West African rivers, including the Senegal, Niger, and Gambia. Guinea's hydro potential is enormous and the country could be a major exporter of electricity. The country also has tremendous agriculture potential. Gold, bauxite, and diamonds are Guinea’s main exports. International investors have shown interest in Guinea's unexplored mineral reserves, which have the potential to propel Guinea's future growth. Following the death of long-term President Lansana CONTE in 2008 and the coup that followed, international donors, including the G-8, the IMF, and the World Bank, significantly curtailed their development programs in Guinea. However, the IMF approved a 3-year Extended Credit Facility arrangement in 2012, following the December 2010 presidential elections. In September 2012, Guinea achieved Heavily Indebted Poor Countries completion point status. Future access to international assistance and investment will depend on the government’s ability to be transparent, combat corruption, reform its banking system, improve its business environment, and build infrastructure. In April 2013, the government amended its mining code to reduce taxes and royalties. In 2014, Guinea complied with requirements of the Extractive Industries Transparency Initiative by publishing its mining contracts. Guinea completed its program with the IMF in October 2016 even though some targeted reforms have been delayed. Currently Guinea is negotiating a new IMF program which will be based on Guinea’s new five-year economic plan, focusing on the development of higher value-added products, including from the agro-business sector and development of the rural economy. Political instability, a reintroduction of the Ebola virus epidemic, low international commodity prices, and an enduring legacy of corruption, inefficiency, and lack of government transparency are factors that could impact Guinea’s future growth. Economic recovery will be a long process while the government adjusts to lower inflows of international donor aid following the surge of Ebola-related emergency support. Ebola stalled promising economic growth in the 2014-15 period and impeded several projects, such as offshore oil exploration and the Simandou iron ore project. The economy, however, grew by 6.6% in 2016 and 6.7% in 2017, mainly due to growth from bauxite mining and thermal energy generation as well as the resiliency of the agricultural sector. The 240-megawatt Kaleta Dam, inaugurated in September 2015, has expanded access to electricity for residents of Conakry. An combined with fears of Ebola virus, continue to undermine Guinea's economic viability. Guinea’s iron ore industry took a hit in 2016 when investors in the Simandou iron ore project announced plans to divest from the project. In 2017, agriculture output and public investment boosted economic growth, while the mining sector continued to play a prominent role in economic performance. Successive governments have failed to address the country's crumbling infrastructure. Guinea suffers from chronic electricity shortages; poor roads, rail lines and bridges; and a lack of access to clean water - all of which continue to plague economic development. The present government, led by President Alpha CONDE, is working to create an environment to attract foreign investment and hopes to have greater participation from western countries and firms in Guinea's economic development.</data>
+        </text>
+        <text name=" gdp purchasing power parity">
+            <data>
+                <subdata>$27.97 billion (2017 est.)</subdata>
+                <subdata>$25.84 billion (2016 est.)</subdata>
+                <subdata>$23.39 billion (2015 est.)</subdata>
+                <subdata>note: data are in 2017 dollars</subdata>
+                <subdata>country comparison to the world: 138</subdata>
+            </data>
+        </text>
+        <text name=" gdp official exchange rate">
+            <data>$10.25 billion (2017 est.)</data>
+        </text>
+        <text name=" gdp real growth rate">
+            <data>
+                <subdata>8.2% (2017 est.)</subdata>
+                <subdata>10.5% (2016 est.)</subdata>
+                <subdata>3.8% (2015 est.)</subdata>
+                <subdata>country comparison to the world: 8</subdata>
+            </data>
+        </text>
+        <text name=" gdp per capita ppp">
+            <data>
+                <subdata>$2,200 (2017 est.)</subdata>
+                <subdata>$2,000 (2016 est.)</subdata>
+                <subdata>$1,900 (2015 est.)</subdata>
+                <subdata>note: data are in 2017 dollars</subdata>
+                <subdata>country comparison to the world: 205</subdata>
+            </data>
+        </text>
+        <text name=" gross national saving">
+            <data>
+                <subdata>5.1% of GDP (2017 est.)</subdata>
+                <subdata>-6.3% of GDP (2016 est.)</subdata>
+                <subdata>-5.3% of GDP (2015 est.)</subdata>
+                <subdata>country comparison to the world: 176</subdata>
+            </data>
+        </text>
+        <text name=" gdp composition by end use">
+            <data>
+                <subdata>household consumption: 80.8% (2017 est.)</subdata>
+                <subdata>government consumption: 6.6% (2017 est.)</subdata>
+                <subdata>investment in fixed capital: 9.1% (2017 est.)</subdata>
+                <subdata>investment in inventories: 18.5% (2017 est.)</subdata>
+                <subdata>exports of goods and services: 21.9% (2017 est.)</subdata>
+                <subdata>imports of goods and services: -36.9% (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" gdp composition by sector of origin">
+            <data>
+                <subdata>agriculture: 19.8% (2017 est.)</subdata>
+                <subdata>industry: 32.1% (2017 est.)</subdata>
+                <subdata>services: 48.1% (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" agriculture products">
+            <data>rice, coffee, pineapples, mangoes, palm kernels, cocoa, cassava (manioc, tapioca), bananas, potatoes, sweet potatoes; cattle, sheep, goats; timber</data>
+        </text>
+        <text name=" industries">
+            <data>bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing</data>
+        </text>
+        <text name=" industrial production growth rate">
+            <data>
+                <subdata>11% (2017 est.)</subdata>
+                <subdata>country comparison to the world: 9</subdata>
+            </data>
+        </text>
+        <text name=" labor force">
+            <data>
+                <subdata>5.558 million (2017 est.)</subdata>
+                <subdata>country comparison to the world: 75</subdata>
+            </data>
+        </text>
+        <text name=" labor force by occupation">
+            <data>
+                <subdata>agriculture: 76%</subdata>
+                <subdata>industry: 24% (2006 est.)</subdata>
+            </data>
+        </text>
+        <text name=" unemployment rate">
+            <data>
+                <subdata>2.7% (2017 est.)</subdata>
+                <subdata>2.8% (2016 est.)</subdata>
+                <subdata>country comparison to the world: 28</subdata>
+            </data>
+        </text>
+        <text name=" population below poverty line">
+            <data>47% (2006 est.)</data>
+        </text>
+        <text name=" household income or consumption by percentage share">
+            <data>
+                <subdata>lowest 10%: 2.7%</subdata>
+                <subdata>highest 10%: 30.3% (2007)</subdata>
+            </data>
+        </text>
+        <text name=" distribution of family income gini index">
+            <data>
+                <subdata>39.4 (2007)</subdata>
+                <subdata>40.3 (1994)</subdata>
+                <subdata>country comparison to the world: 72</subdata>
+            </data>
+        </text>
+        <text name=" budget">
+            <data>
+                <subdata>revenues: 1.7 billion (2017 est.)</subdata>
+                <subdata>expenditures: 1.748 billion (2017 est.)</subdata>
+            </data>
+        </text>
+        <text name=" taxes and other revenues">
+            <data>
+                <subdata>16.6% (of GDP) (2017 est.)</subdata>
+                <subdata>country comparison to the world: 178</subdata>
+            </data>
+        </text>
+        <text name=" budget surplus or deficit">
+            <data>
+                <subdata>-0.5% (of GDP) (2017 est.)</subdata>
+                <subdata>country comparison to the world: 61</subdata>
+            </data>
+        </text>
+        <text name=" public debt">
+            <data>
+                <subdata>37.9% of GDP (2017 est.)</subdata>
+                <subdata>41.8% of GDP (2016 est.)</subdata>
+                <subdata>country comparison to the world: 137</subdata>
+            </data>
+        </text>
+        <text name=" fiscal year">
+            <data>calendar year</data>
+        </text>
+        <text name=" inflation rate consumer prices">
+            <data>
+                <subdata>8.9% (2017 est.)</subdata>
+                <subdata>8.2% (2016 est.)</subdata>
+                <subdata>country comparison to the world: 200</subdata>
+            </data>
+        </text>
+        <text name=" central bank discount rate">
+            <data>
+                <subdata>22.25% (31 December 2005)</subdata>
+                <subdata>country comparison to the world: 2</subdata>
+            </data>
+        </text>
+        <text name=" commercial bank prime lending rate">
+            <data>
+                <subdata>22.2% (31 December 2017 est.)</subdata>
+                <subdata>22.2% (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 10</subdata>
+            </data>
+        </text>
+        <text name=" stock of narrow money">
+            <data>
+                <subdata>$1.84 billion (31 December 2017 est.)</subdata>
+                <subdata>$1.61 billion (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 135</subdata>
+            </data>
+        </text>
+        <text name=" stock of broad money">
+            <data>
+                <subdata>$1.84 billion (31 December 2017 est.)</subdata>
+                <subdata>$1.61 billion (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 144</subdata>
+            </data>
+        </text>
+        <text name=" stock of domestic credit">
+            <data>
+                <subdata>$1.762 billion (31 December 2017 est.)</subdata>
+                <subdata>$1.931 billion (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 157</subdata>
+            </data>
+        </text>
+        <text name=" market value of publicly traded shares">
+            <data>NA</data>
+        </text>
+        <text name=" current account balance">
+            <data>
+                <subdata>-$705 million (2017 est.)</subdata>
+                <subdata>-$2.705 billion (2016 est.)</subdata>
+                <subdata>country comparison to the world: 128</subdata>
+            </data>
+        </text>
+        <text name=" exports">
+            <data>
+                <subdata>$3.514 billion (2017 est.)</subdata>
+                <subdata>$1.954 billion (2016 est.)</subdata>
+                <subdata>country comparison to the world: 124</subdata>
+            </data>
+        </text>
+        <text name=" exports partners">
+            <data>China 35.8%, Ghana 20.1%, UAE 11.6%, India 4.3% (2017)</data>
+        </text>
+        <text name=" exports commodities">
+            <data>bauxite, gold, diamonds, coffee, fish, agricultural products</data>
+        </text>
+        <text name=" imports">
+            <data>
+                <subdata>$4.799 billion (2017 est.)</subdata>
+                <subdata>$4.43 billion (2016 est.)</subdata>
+                <subdata>country comparison to the world: 133</subdata>
+            </data>
+        </text>
+        <text name=" imports commodities">
+            <data>petroleum products, metals, machinery, transport equipment, textiles, grain and other foodstuffs</data>
+        </text>
+        <text name=" imports partners">
+            <data>Netherlands 17.2%, China 13.2%, India 11.8%, Belgium 10%, France 6.9%, UAE 4.5% (2017)</data>
+        </text>
+        <text name=" reserves of foreign exchange and gold">
+            <data>
+                <subdata>$331.8 million (31 December 2017 est.)</subdata>
+                <subdata>$383.4 million (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 165</subdata>
+            </data>
+        </text>
+        <text name=" debt external">
+            <data>
+                <subdata>$1.458 billion (31 December 2017 est.)</subdata>
+                <subdata>$1.462 billion (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 160</subdata>
+            </data>
+        </text>
+        <text name=" stock of direct foreign investment at home">
+            <data>
+                <subdata>$3.174 billion (31 December 2017 est.)</subdata>
+                <subdata>$2.391 billion (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 114</subdata>
+            </data>
+        </text>
+        <text name=" stock of direct foreign investment abroad">
+            <data>
+                <subdata>$1.8 million (31 December 2017 est.)</subdata>
+                <subdata>$69.19 million (31 December 2016 est.)</subdata>
+                <subdata>country comparison to the world: 118</subdata>
+            </data>
+        </text>
+        <text name=" exchange rates">
+            <data>
+                <subdata>Guinean francs (GNF) per US dollar -</subdata>
+                <subdata>9,230 (2017 est.)</subdata>
+                <subdata>9,085 (2016 est.)</subdata>
+                <subdata>9,085 (2015 est.)</subdata>
+                <subdata>7,485.5 (2014 est.)</subdata>
+                <subdata>7,014.1 (2013 est.)</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="energy">
+        <text name=" electricity access">
+            <data>
+                <subdata>population without electricity: 8.7 million (2013)</subdata>
+                <subdata>electrification - total population: 26% (2013)</subdata>
+                <subdata>electrification - urban areas: 53% (2013)</subdata>
+                <subdata>electrification - rural areas: 11% (2013)</subdata>
+            </data>
+        </text>
+        <text name=" electricity production">
+            <data>
+                <subdata>598 million kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 162</subdata>
+            </data>
+        </text>
+        <text name=" electricity consumption">
+            <data>
+                <subdata>556.1 million kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 168</subdata>
+            </data>
+        </text>
+        <text name=" electricity exports">
+            <data>
+                <subdata>0 kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 144</subdata>
+            </data>
+        </text>
+        <text name=" electricity imports">
+            <data>
+                <subdata>0 kWh (2016 est.)</subdata>
+                <subdata>country comparison to the world: 156</subdata>
+            </data>
+        </text>
+        <text name=" electricity installed generating capacity">
+            <data>
+                <subdata>550,000 kW (2016 est.)</subdata>
+                <subdata>country comparison to the world: 145</subdata>
+            </data>
+        </text>
+        <text name=" electricity from fossil fuels">
+            <data>
+                <subdata>33% of total installed capacity (2016 est.)</subdata>
+                <subdata>country comparison to the world: 182</subdata>
+            </data>
+        </text>
+        <text name=" electricity from nuclear fuels">
+            <data>
+                <subdata>0% of total installed capacity (2017 est.)</subdata>
+                <subdata>country comparison to the world: 103</subdata>
+            </data>
+        </text>
+        <text name=" electricity from hydroelectric plants">
+            <data>
+                <subdata>67% of total installed capacity (2017 est.)</subdata>
+                <subdata>country comparison to the world: 20</subdata>
+            </data>
+        </text>
+        <text name=" electricity from other renewable sources">
+            <data>
+                <subdata>0% of total installed capacity (2017 est.)</subdata>
+                <subdata>country comparison to the world: 190</subdata>
+            </data>
+        </text>
+        <text name=" crude oil production">
+            <data>
+                <subdata>0 bbl/day (2017 est.)</subdata>
+                <subdata>country comparison to the world: 144</subdata>
+            </data>
+        </text>
+        <text name=" crude oil exports">
+            <data>
+                <subdata>0 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 133</subdata>
+            </data>
+        </text>
+        <text name=" crude oil imports">
+            <data>
+                <subdata>0 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 137</subdata>
+            </data>
+        </text>
+        <text name=" crude oil proved reserves">
+            <data>
+                <subdata>0 bbl (1 January 2018 est.)</subdata>
+                <subdata>country comparison to the world: 141</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products production">
+            <data>
+                <subdata>0 bbl/day (2017 est.)</subdata>
+                <subdata>country comparison to the world: 153</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products consumption">
+            <data>
+                <subdata>19,000 bbl/day (2016 est.)</subdata>
+                <subdata>country comparison to the world: 143</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products exports">
+            <data>
+                <subdata>0 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 162</subdata>
+            </data>
+        </text>
+        <text name=" refined petroleum products imports">
+            <data>
+                <subdata>18,460 bbl/day (2015 est.)</subdata>
+                <subdata>country comparison to the world: 128</subdata>
+            </data>
+        </text>
+        <text name=" natural gas production">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 142</subdata>
+            </data>
+        </text>
+        <text name=" natural gas consumption">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 155</subdata>
+            </data>
+        </text>
+        <text name=" natural gas exports">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 117</subdata>
+            </data>
+        </text>
+        <text name=" natural gas imports">
+            <data>
+                <subdata>0 cu m (2017 est.)</subdata>
+                <subdata>country comparison to the world: 135</subdata>
+            </data>
+        </text>
+        <text name=" natural gas proved reserves">
+            <data>
+                <subdata>0 cu m (1 January 2014 est.)</subdata>
+                <subdata>country comparison to the world: 143</subdata>
+            </data>
+        </text>
+        <text name=" carbon dioxide emissions from consumption of energy">
+            <data>
+                <subdata>2.794 million Mt (2017 est.)</subdata>
+                <subdata>country comparison to the world: 149</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="communications">
+        <text name=" telephones fixed lines">
+            <data>
+                <subdata>total subscriptions: 0 (2017 est.)</subdata>
+                <subdata>subscriptions per 100 inhabitants: less than 1 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 219</subdata>
+            </data>
+        </text>
+        <text name=" telephones mobile cellular">
+            <data>
+                <subdata>total subscriptions: 10.8 million (July 2016 est.)</subdata>
+                <subdata>subscriptions per 100 inhabitants: 87 (July 2016 est.)</subdata>
+                <subdata>country comparison to the world: 81</subdata>
+            </data>
+        </text>
+        <text name=" telephone system">
+            <data>
+                <subdata>general assessment: huge improvement over the last 10 years; the capital and the regional administrative centers have 3G access; in 2013 the set up of an IXP (Internet Exchange Point) will reduce cost of internet bandwith and improve infrastructure (2017)</subdata>
+                <subdata>domestic: there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity less than 1 per 100 persons; mobile-cellular subscribership is expanding rapidly and now approaches 90 per 100 persons (2017)</subdata>
+                <subdata>international: country code - 224; satellite earth station - 1 Intelsat (Atlantic Ocean); first international fibre optic submarine cable installed in 2012 (2017)</subdata>
+            </data>
+        </text>
+        <text name=" broadcast media">
+            <data>government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services (2011)</data>
+        </text>
+        <text name=" internet country code">
+            <data>.gn</data>
+        </text>
+        <text name=" internet users">
+            <data>
+                <subdata>total: 1,185,148 (July 2016 est.)</subdata>
+                <subdata>percent of population: 9.8% (July 2016 est.)</subdata>
+                <subdata>country comparison to the world: 130</subdata>
+            </data>
+        </text>
+        <text name=" broadband fixed subscriptions">
+            <data>
+                <subdata>total: 1,100 (2017 est.)</subdata>
+                <subdata>subscriptions per 100 inhabitants: less than 1 (2017 est.)</subdata>
+                <subdata>country comparison to the world: 190</subdata>
+            </data>
+        </text>
+    </section>
+    <section name="transportation">
+        <text name=" civil aircraft registration country code prefix">
+            <data>3X (2016)</data>
+        </text>
+        <text name=" airports">
+            <data>
+                <subdata>16 (2013)</subdata>
+                <subdata>country comparison to the world: 143</subdata>
+            </data>
+        </text>
+        <text name=" airports with paved runways">
+            <data>
+                <subdata>total: 4 (2017)</subdata>
+                <subdata>over 3,047 m: 1 (2017)</subdata>
+                <subdata>1,524 to 2,437 m: 3 (2017)</subdata>
+            </data>
+        </text>
+        <text name=" airports with unpaved runways">
+            <data>
+                <subdata>total: 12 (2013)</subdata>
+                <subdata>1,524 to 2,437 m: 7 (2013)</subdata>
+                <subdata>914 to 1,523 m: 3 (2013)</subdata>
+                <subdata>under 914 m: 2 (2013)</subdata>
+            </data>
+        </text>
+        <text name=" railways">
+            <data>
+                <subdata>total: 1,086 km (2017)</subdata>
+                <subdata>standard gauge: 279 km 1.435-m gauge (2017)</subdata>
+                <subdata>narrow gauge: 807 km 1.000-m gauge (2017)</subdata>
+                <subdata>country comparison to the world: 88</subdata>
+            </data>
+        </text>
+        <text name=" roadways">
+            <data/>
+        </text>
+        <text name=" waterways">
+            <data>
+                <subdata>1,300 km (navigable by shallow-draft native craft in the northern part of the Niger River system) (2011)</subdata>
+                <subdata>country comparison to the world: 54</subdata>
+            </data>
+        </text>
+        <text name=" merchant marine">
+            <data>
+                <subdata>total: 1</subdata>
+                <subdata>by type: other 1 (2018)</subdata>
+                <subdata>country comparison to the world: 171</subdata>
+            </data>
+        </text>
+        <text name=" ports and terminals">
+            <data>major seaport(s): Conakry, Kamsar</data>
+        </text>
+    </section>
+    <section name="military">
+        <text name=" military expenditures">
+            <data>
+                <subdata>2.49% of GDP (2016)</subdata>
+                <subdata>3.31% of GDP (2015)</subdata>
+                <subdata>2.97% of GDP (2014)</subdata>
+                <subdata>3.16% of GDP (2013)</subdata>
+                <subdata>2.98% of GDP (2012)</subdata>
+                <subdata>country comparison to the world: 38</subdata>
+            </data>
+        </text>
+        <text name=" military branches">
+            <data>National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne, includes Marines), Guinean Air Force (Force Aerienne de Guinee) (2009)</data>
+        </text>
+        <text name=" military service age and obligation">
+            <data>no compulsory military service (2017)</data>
+        </text>
+    </section>
+    <section name="transnational">
+        <text name=" disputes international">
+            <data>Sierra Leone considers Guinea's definition of the flood plain limits to define the left bank boundary of the Makona and Moa Rivers excessive and protests Guinea's continued occupation of these lands, including the hamlet of Yenga, occupied since 1998</data>
+        </text>
+        <text name=" trafficking in persons">
+            <data>
+                <subdata>current situation: Guinea is a source, transit, and, to a lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking victims are Guinean children, and trafficking is more prevalent among Guineans than foreign national migrants; Guinean girls are subjected to domestic servitude and commercial sexual exploitation, while boys are forced to beg or to work as street vendors, shoe shiners, or miners; Guinea is a source country and transit point for West African children forced to work as miners in the region; Guinean women and girls are subjected to domestic servitude and sex trafficking in West Africa, the Middle East, the US, and increasingly Europe, while Thai, Chinese, and Vietnamese women are forced into prostitution and some West Africans are forced into domestic servitude in Guinea</subdata>
+                <subdata>tier rating: Tier 2 Watch List – Guinea does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Guinea was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; no new investigations were conducted in 2014, and the one ongoing case led to the prosecution of four offenders for forced child labor, three of whom were convicted but given inadequate sentences for the crime; the government did not identify or provide protective services to victims and did not support NGOs that assisted victims but continued to refer child victims to NGOs on an ad hoc basis; Guinean law does not prohibit all forms of trafficking, excluding, for example, debt bondage; the 2014 Ebolavirus outbreak negatively affected Guinea’s ability to address human trafficking (2015)</subdata>
+            </data>
+        </text>
+    </section>
+</country>
