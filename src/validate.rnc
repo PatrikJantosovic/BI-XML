@@ -12,6 +12,7 @@ grammar{
 		attribute name { capitalStart },
 		element section {
 			attribute name { notempty },
+			attribute src { notempty }?,
 			element \text {
 				attribute name { notempty },
 				element data {
@@ -20,7 +21,7 @@ grammar{
 						text
 					}*
 				}
-			}+
+			}*
 		}+
 	}+
 

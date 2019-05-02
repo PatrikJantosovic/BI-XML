@@ -5,7 +5,7 @@
 - xmllint
 - fop
 - jing
-- saxon
+- saxon - .jar súbor priložený v adresári ./src
 # Obsah projektu
 - data
   - zdrojové XML súbory

@@ -8,6 +8,8 @@
             </data>
         </text>
     </section>
+	<section name="flag" src="guyana.png">
+	</section>
     <section name="geography">
         <text name=" location">
             <data>Northern South America, bordering the North Atlantic Ocean, between Suriname and Venezuela</data>

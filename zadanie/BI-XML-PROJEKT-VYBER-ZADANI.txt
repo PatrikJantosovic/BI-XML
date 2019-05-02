@@ -1,0 +1,25 @@
+PROJEKT - VÝBĚR ZADÁNÍ
+
+- Pokud chcete dělat projekt samostatně vyberte si a zašlete na email
+  vyučujícího 4 unikátní oblasti pro zpracování v projektu (z
+  https://www.cia.gov/library/publications/the-world-factbook/).
+
+- Pokud chcete dělat projekt ve skupině vytvořte skupiny po 3 až 6
+  lidech (a v každé se dohodněte kdo bude koordinátor/leader skupiny).
+
+- Každá skupina navrhne XML strukturu pro zaznamenání informací o členech
+  skupiny (jméno + email) a o tom jaké oblasti jste si vybrali pro
+  zpracování do projektu. Definujte ke XML struktuře i jmenný prostor.
+
+- Po navržení XML struktury si za každého člena skupiny vyberte a
+  zaznamenejte do XML dokumentu 2 oblasti pro zpracování v projektu (z
+  https://www.cia.gov/library/publications/the-world-factbook/). Všechny
+  oblasti by měly být unikátní vrámci skupiny.
+
+- Výsledný XML dokument ve skupině zkontrolujte aby byl "well-formed" a
+  odešlete na email vyučujícího.
+
+ÚKOLY PRO CVIČENÍ:
+
+- Vytvořte schema pro vaši XML strukturu pomocí DTD a zvalidujte výsledný
+  XML dokument.

@@ -6,6 +6,7 @@
 
 <!ELEMENT section (text*)>
 <!ATTLIST section name CDATA #REQUIRED>
+<!ATTLIST section src CDATA #IMPLIED>
 
 <!ELEMENT text (#PCDATA|data)*>
 <!ATTLIST text name CDATA #REQUIRED>
