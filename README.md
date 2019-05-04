@@ -15,9 +15,10 @@
 - output
   - Do tohoto odresára sa generujú všetky výstupy
 - src
-  - Obsahuje xsl soubory na transformácie
+  - Obsahuje xsl súbory na transformácie
   - Obsahuje DTD a RelaxNG súbory na validácie
-  - ToOne.xml definuje zlúčenie XML zdrojovd do jednoho súboru
+  - ToOne.xml definuje zlúčenie XML zdrojov do jednoho súboru
+  - obsahuje saxon.jar súbor
 - zadanie
   - BI-XML-PROJEKT-INSTRUKCE.txt
   - BI-XML-PROJEKT-PREZENTACE.txt

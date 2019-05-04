@@ -1,0 +1,14 @@
+ul { display: inline-flex;}
+li { margin-left: 10px; list-style: none; }
+h2 { text-align: center; color: red; }
+img {     
+    top: 10px;
+    right: 10px;
+    position: absolute;
+}
+footer {
+    text-align: right;
+}
+.menu {
+    text-align: center;
+}
