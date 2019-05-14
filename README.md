@@ -18,10 +18,13 @@
   - Obsahuje xsl súbory na transformácie
   - Obsahuje DTD a RelaxNG súbory na validácie
   - ToOne.xml definuje zlúčenie XML zdrojov do jednoho súboru
+  - obsahuje ToHtml.xsl pre konverziu do HTML
+  - obsahuje ToPdf.xsl pre konverziu do PDF
   - obsahuje saxon.jar súbor
 - zadanie
   - BI-XML-PROJEKT-INSTRUKCE.txt
   - BI-XML-PROJEKT-PREZENTACE.txt
+  - BI-XML-PROJEKT-VYBER-ZADANI.txt
 
 # Príkazy
 - Predpokladá sa nainštalovaný software zo sekcie "Požiadavky"

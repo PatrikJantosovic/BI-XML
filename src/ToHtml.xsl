@@ -21,7 +21,7 @@
                         </ul>
                     </main>
                     <footer>
-                        jantopat@fit
+                        jantopat@fit.cvut.cz
                     </footer>
                 </body>
             </html>
@@ -78,24 +78,24 @@
         </li>
     </xsl:template>
 
-            <xsl:template match="//section[not(@src)]">
-                <section>
-                    <h3 id="{@name}">
-                        <xsl:value-of select="@name"/>
-                    </h3>
-                    <xsl:apply-templates/>
-                </section>
-            </xsl:template>
+    <xsl:template match="//section[not(@src)]">
+        <section>
+            <h3 id="{@name}">
+                <xsl:value-of select="@name"/>
+            </h3>
+            <xsl:apply-templates/>
+        </section>
+    </xsl:template>
 
-            <xsl:template match="//section[@src]">
-                <img src="../data/{@src}"/>
-            </xsl:template>
+    <xsl:template match="//section[@src]">
+        <img src="../data/{@src}"/>
+    </xsl:template>
 
 
-        <xsl:template match="//text">
-            <p>
-                <xsl:value-of select="."/>
-            </p>
-        </xsl:template>
+    <xsl:template match="//text">
+        <p>
+           <xsl:value-of select="."/>
+        </p>
+    </xsl:template>
 
-    </xsl:stylesheet>
+</xsl:stylesheet>
