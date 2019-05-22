@@ -1,6 +1,26 @@
-ul { display: inline-flex;}
-li { margin-left: 10px; list-style: none; }
-h2 { text-align: center; color: red; }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #4CAF50;
+}
+h2 { text-align: center; color: #4CAF50; }
 img {     
     top: 10px;
     right: 10px;
@@ -10,5 +30,10 @@ footer {
     text-align: right;
 }
 .menu {
-    text-align: center;
+    text-align: center!important;
+}
+
+main{
+    margin: 0 auto;
+    width: 80%;
 }
